@@ -2,6 +2,7 @@ import speech_recognition as sr
 import streamlit as st
 import Levenshtein
 import difflib
+import pyaudio
 from annotated_text import annotated_text
 
 
