@@ -16,3 +16,8 @@ streamlit-audiorec
 st-annotated-text
 portaudio
 pyaudio
+os
+pronouncing
+difflib
+playsound
+IPython
