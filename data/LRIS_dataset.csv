@@ -1,0 +1,837 @@
+id;Word_english;Level;Word_port;Category;Sentence_1;Sentence_2;Sentence_3;words_translation;Type
+1;a;A1;um, uma;;I want a cookie.;;;a. [pt] um, uma. [en] ;Word
+4;a bottle of;A1;uma garrafa de;Clothing;She bought a bottle of juice.;;;a bottle of. [pt] uma garrafa de. [en] ;Word
+7;a day off;A1;um dia de folga;;I'm taking a day off work.;;;a day off. [pt] um dia de folga. [en] ;Word
+10;a hundred;A1;cem;Numbers;There are a hundred people at the party.;;;a hundred. [pt] cem. [en] ;Word
+13;a lot;A1;muito;;She learned a lot from the lesson.;;;a lot. [pt] muito. [en] ;Word
+16;a.m.;A1;manhã;;My class starts at 9 a.m.;;;a.m.. [pt] manhã. [en] ;Word
+19;accident;A1;acidente;Communication;He had an accident last week.;;;accident. [pt] acidente. [en] ;Word
+22;across;A1;através;Places;I walked across the street.;;;across. [pt] através. [en] ;Word
+25;activity;A1;atividade;Business;Swimming is a fun activity.;;;activity. [pt] atividade. [en] ;Word
+28;actor;A1;Ator;Business;The actor is performing on stage.;;;actor. [pt] Ator. [en] ;Word
+31;actress;A1;Atriz;Business;She is an actress in that movie.;;;actress. [pt] Atriz. [en] ;Word
+34;address;A1;Endereço;Business;What is your address?;;;address. [pt] Endereço. [en] ;Word
+37;adult;A1;Adulto;;She is an adult now.;;;adult. [pt] Adulto. [en] ;Word
+40;adventure;A1;Aventura;;They went on an adventure last weekend.;;;adventure. [pt] Aventura. [en] ;Word
+43;afternoon;A1;Tarde;;See you in the afternoon!;;;afternoon. [pt] Tarde. [en] ;Word
+46;again;A1;Novamente;;Let's try again!;;;again. [pt] Novamente. [en] ;Word
+49;age;A1;Idade;;What is your age?;;;age. [pt] Idade. [en] ;Word
+52;ago;A1;Atrás;;She left a while ago.;;;ago. [pt] Atrás. [en] ;Word
+55;air;A1;Ar;Nature;The air is fresh in the mountains.;;;air. [pt] Ar. [en] ;Word
+58;airport;A1;Aeroporto;Places;We're going to the airport to catch our flight.;;;airport. [pt] Aeroporto. [en] ;Word
+61;also;A1;Também;;He is also coming to the party.;;;also. [pt] Também. [en] ;Word
+64;always;A1;Sempre;;I always eat breakfast in the morning.;;;always. [pt] Sempre. [en] ;Word
+67;an;A1;Um, Uma;;I need an apple.;;;an. [pt] Um, Uma. [en] ;Word
+70;animal;A1;Animal;Animals;The zoo has many different animals.;;;animal. [pt] Animal. [en] ;Word
+73;another;A1;Outro;;I want another slice of cake.;;;another. [pt] Outro. [en] ;Word
+76;anything;A1;Qualquer Coisa;;Is there anything I can help you with?;;;anything. [pt] Qualquer Coisa. [en] ;Word
+79;apartment;A1;Apartamento;Home;She lives in a small apartment.;;;apartment. [pt] Apartamento. [en] ;Word
+82;apple;A1;Maçã;Foods and drinks;I want to eat an apple.;;;apple. [pt] Maçã. [en] ;Word
+85;April;A1;Abril;Days of the week and months;My birthday is in April.;;;April. [pt] Abril. [en] ;Word
+88;are;A1;São, Estão;;They are coming to the party.;;;are. [pt] São, Estão. [en] ;Word
+91;Argentina;A1;Argentina;Places;My friend is from Argentina.;;;Argentina. [pt] Argentina. [en] ;Word
+94;arm;A1;Braço;Human body and health;He broke his arm playing football.;;;arm. [pt] Braço. [en] ;Word
+97;Armenia;A1;Armênia;Places;Armenia is in Asia.;;;Armenia. [pt] Armênia. [en] ;Word
+100;artist;A1;Artista;Business;She is a talented artist.;;;artist. [pt] Artista. [en] ;Word
+103;astronaut;A1;Astronauta;;I want to be an astronaut.;;;astronaut. [pt] Astronauta. [en] ;Word
+106;at the;A1;No, Na;;I am at the park.;;;at the. [pt] No, Na. [en] ;Word
+109;August;A1;Agosto;Days of the week and months;August is in summer.;;;August. [pt] Agosto. [en] ;Word
+112;aunt;A1;Tia;;My aunt lives in London.;;;aunt. [pt] Tia. [en] ;Word
+115;Australia;A1;Austrália;Places;Kangaroos are found in Australia.;;;Australia. [pt] Austrália. [en] ;Word
+118;Austria;A1;Áustria;Places;She visited Austria last year.;;;Austria. [pt] Áustria. [en] ;Word
+121;autumn;A1;Outono;Days of the week and months;The leaves fall in autumn.;;;autumn. [pt] Outono. [en] ;Word
+124;awesome;A1;Impressionante;Emotions;That was an awesome movie!;;;awesome. [pt] Impressionante. [en] ;Word
+127;baby;A1;Bebê;;They had a baby last month.;;;baby. [pt] Bebê. [en] ;Word
+130;badly;A1;Muito Mal;Emotions;She hurt herself badly.;;;badly. [pt] Muito Mal. [en] ;Word
+133;bag;A1;Bolsa, Saco;;I need a bag for shopping.;;;bag. [pt] Bolsa, Saco. [en] ;Word
+136;bakery;A1;Padaria;Work;I bought bread from the bakery.;;;bakery. [pt] Padaria. [en] ;Word
+139;ball;A1;Bola;;Let's play ball!;;;ball. [pt] Bola. [en] ;Word
+142;banana;A1;Banana;Foods and drinks;She ate a banana for breakfast.;;;banana. [pt] Banana. [en] ;Word
+145;band;A1;Banda;;I like that band's music.;;;band. [pt] Banda. [en] ;Word
+148;baseball;A1;Beisebol;Sports;Baseball is a popular sport in America.;;;baseball. [pt] Beisebol. [en] ;Word
+151;basketball;A1;Basquete;Sports;They play basketball every Saturday.;;;basketball. [pt] Basquete. [en] ;Word
+154;bath;A1;Banho;Home;I take a bath before going to bed.;;;bath. [pt] Banho. [en] ;Word
+157;bathroom;A1;Banheiro;Home;The bathroom is next to the bedroom.;;;bathroom. [pt] Banheiro. [en] ;Word
+160;be;A1;Ser, Estar;;She wants to be a doctor.;;;be. [pt] Ser, Estar. [en] ;Word
+163;beach;A1;Praia;Places;We love going to the beach in summer.;;;beach. [pt] Praia. [en] ;Word
+166;beard;A1;Barba;Human body and health;He has a long beard.;;;beard. [pt] Barba. [en] ;Word
+169;beautiful;A1;Bonito, Bonita;Emotions;The flowers are beautiful.;;;beautiful. [pt] Bonito, Bonita. [en] ;Word
+172;because;A1;Porque;;She is happy because she won.;;;because. [pt] Porque. [en] ;Word
+175;bed;A1;Cama;Home;I sleep in a big bed.;;;bed. [pt] Cama. [en] ;Word
+178;bedroom;A1;Quarto;Home;Her bedroom is upstairs.;;;bedroom. [pt] Quarto. [en] ;Word
+181;beer;A1;Cerveja;Foods and drinks;He likes drinking beer with friends.;;;beer. [pt] Cerveja. [en] ;Word
+184;begin;A1;Começar;;Let's begin the game now.;;;begin. [pt] Começar. [en] ;Word
+187;beginning;A1;Começo;;The beginning of the book was interesting.;;;beginning. [pt] Começo. [en] ;Word
+190;believe;A1;Acreditar;;I believe in you!;;;believe. [pt] Acreditar. [en] ;Word
+193;best friend;A1;Melhor amigo;;She is my best friend.;;;best friend. [pt] Melhor amigo. [en] ;Word
+196;bicycle;A1;Bicicleta;Transportation;He rides his bicycle to work.;;;bicycle. [pt] Bicicleta. [en] ;Word
+199;big;A1;Grande;;That is a big house.;;;big. [pt] Grande. [en] ;Word
+202;bird;A1;Pássaro;Animals;I saw a colorful bird in the garden.;;;bird. [pt] Pássaro. [en] ;Word
+205;birthday;A1;Aniversário;;Her birthday is in May.;;;birthday. [pt] Aniversário. [en] ;Word
+208;biscuit;A1;Biscoito;Foods and drinks;I like having biscuits with tea.;;;biscuit. [pt] Biscoito. [en] ;Word
+211;black;A1;Preto;Colors;She wears a black dress.;;;black. [pt] Preto. [en] ;Word
+214;blond;A1;Loiro;Colors;He has blond hair.;;;blond. [pt] Loiro. [en] ;Word
+217;blonde;A1;Loira;Colors;She is a blonde girl.;;;blonde. [pt] Loira. [en] ;Word
+220;blue;A1;Azul;Colors;The sky is blue today.;;;blue. [pt] Azul. [en] ;Word
+223;boat;A1;Barco;Transportation;They went fishing on a boat.;;;boat. [pt] Barco. [en] ;Word
+226;Bolivia;A1;Bolívia;Places;Bolivia is in South America.;;;Bolivia. [pt] Bolívia. [en] ;Word
+229;bookshop;A1;Livraria;Places;I bought a book at the bookshop.;;;bookshop. [pt] Livraria. [en] ;Word
+232;boring;A1;Chato;Emotions;The movie was boring.;;;boring. [pt] Chato. [en] ;Word
+235;born;A1;Nascido;;She was born in June.;;;born. [pt] Nascido. [en] ;Word
+238;boss;A1;Chefe;Work;He is the boss of the company.;;;boss. [pt] Chefe. [en] ;Word
+241;both;A1;Ambos;;They both like ice cream.;;;both. [pt] Ambos. [en] ;Word
+244;bowler hat;A1;Chapéu coco;Clothing;He wore a bowler hat to the party.;;;bowler hat. [pt] Chapéu coco. [en] ;Word
+247;boy;A1;Menino;;The boy is playing in the park.;;;boy. [pt] Menino. [en] ;Word
+250;boyfriend;A1;Namorado;;She introduced her boyfriend to us.;;;boyfriend. [pt] Namorado. [en] ;Word
+253;Brazil;A1;Brasil;Places;Brazil is famous for football.;;;Brazil. [pt] Brasil. [en] ;Word
+256;bread;A1;Pão;Foods and drinks;Can you buy bread from the store?;;;bread. [pt] Pão. [en] ;Word
+259;breakfast;A1;Café da manhã;Foods and drinks;I have cereal for breakfast.;;;breakfast. [pt] Café da manhã. [en] ;Word
+262;bring;A1;Trazer;;Please bring your book tomorrow.;;;bring. [pt] Trazer. [en] ;Word
+265;broken;A1;Quebrado;;The cup is broken.;;;broken. [pt] Quebrado. [en] ;Word
+268;brother;A1;Irmão;;Her brother is very tall.;;;brother. [pt] Irmão. [en] ;Word
+271;brown;A1;Marrom;Colors;She has brown eyes.;;;brown. [pt] Marrom. [en] ;Word
+274;build;A1;Construir;;They want to build a new house.;;;build. [pt] Construir. [en] ;Word
+277;building;A1;Prédio, Construção;Places;The building is tall.;;;building. [pt] Prédio, Construção. [en] ;Word
+280;Bulgaria;A1;Bulgária;Places;She visited Bulgaria last year.;;;Bulgaria. [pt] Bulgária. [en] ;Word
+283;burger;A1;Hambúrguer;Foods and drinks;He ordered a cheeseburger.;;;burger. [pt] Hambúrguer. [en] ;Word
+286;bus;A1;Ônibus;Transportation;I take the bus to work.;;;bus. [pt] Ônibus. [en] ;Word
+289;butter;A1;Manteiga;Foods and drinks;I spread butter on my toast.;;;butter. [pt] Manteiga. [en] ;Word
+292;buy;A1;Comprar;;Can you buy some milk?;;;buy. [pt] Comprar. [en] ;Word
+295;bye;A1;Tchau;;She said bye and left.;;;bye. [pt] Tchau. [en] ;Word
+298;cafe;A1;Café;Places;Let's meet at the cafe tomorrow.;;;cafe. [pt] Café. [en] ;Word
+301;cake;A1;Bolo;Foods and drinks;I baked a cake for her birthday.;;;cake. [pt] Bolo. [en] ;Word
+304;camera;A1;Câmera;Technology;I need a new camera.;;;camera. [pt] Câmera. [en] ;Word
+307;Canada;A1;Canadá;Places;Canada is a beautiful country.;;;Canada. [pt] Canadá. [en] ;Word
+310;cannot;A1;Não pode;;I cannot swim.;;;cannot. [pt] Não pode. [en] ;Word
+313;capital;A1;Capital;;Paris is the capital of France.;;;capital. [pt] Capital. [en] ;Word
+316;car;A1;Carro;Transportation;He drives a red car.;;;car. [pt] Carro. [en] ;Word
+319;car park;A1;Estacionamento;Places;The car park is full.;;;car park. [pt] Estacionamento. [en] ;Word
+322;card games;A1;Jogos de cartas;;They play card games every Sunday.;;;card games. [pt] Jogos de cartas. [en] ;Word
+325;carpenter;A1;Carpinteiro;Professions;The carpenter fixed the table.;;;carpenter. [pt] Carpinteiro. [en] ;Word
+328;carrot;A1;Cenoura;Foods and drinks;Do you like eating carrots?;;;carrot. [pt] Cenoura. [en] ;Word
+331;cat;A1;Gato;Animals;The cat is sleeping.;;;cat. [pt] Gato. [en] ;Word
+334;CD;A1;CD;Technology;I have the latest CD of her favorite band.;;;CD. [pt] CD. [en] ;Word
+337;CD player;A1;Tocador de CD;Technology;He bought a new CD player.;;;CD player. [pt] Tocador de CD. [en] ;Word
+340;cent;A1;Centavo;Numbers;A dollar has 100 cents.;;;cent. [pt] Centavo. [en] ;Word
+343;century;A1;Século;Numbers;We live in the 21st century.;;;century. [pt] Século. [en] ;Word
+346;chair;A1;Cadeira;Home;Please sit on the chair.;;;chair. [pt] Cadeira. [en] ;Word
+349;characters;A1;Personagens;;The book has interesting characters.;;;characters. [pt] Personagens. [en] ;Word
+352;chart;A1;Gráfico;;The chart shows the sales data.;;;chart. [pt] Gráfico. [en] ;Word
+355;check;A1;Check-in;Travel;Let's do the check-in at the hotel.;;;check-in. [pt] Check-in. [en] ;Word
+358;cheese;A1;Queijo;Foods and drinks;I love eating cheese sandwiches.;;;cheese. [pt] Queijo. [en] ;Word
+361;chef;A1;Chef;Professions;He is a famous chef.;;;chef. [pt] Chef. [en] ;Word
+364;chicken;A1;Frango;Foods and drinks;She cooked chicken for dinner.;;;chicken. [pt] Frango. [en] ;Word
+367;child;A1;Criança;;The child is playing in the park.;;;child. [pt] Criança. [en] ;Word
+370;children;A1;Crianças;;There are many children in the park.;;;children. [pt] Crianças. [en] ;Word
+373;Chile;A1;Chile;Places;Chile is in South America.;;;Chile. [pt] Chile. [en] ;Word
+376;chip;A1;Lasca;Foods and drinks;He ate a potato chip.;;;chip. [pt] Lasca. [en] ;Word
+379;chips;A1;Batatas fritas;Foods and drinks;She loves eating chips.;;;chips. [pt] Batatas fritas. [en] ;Word
+382;cinema;A1;Cinema;;Let's go to the cinema tonight.;;;cinema. [pt] Cinema. [en] ;Word
+385;city;A1;Cidade;Places;New York is a big city.;;;city. [pt] Cidade. [en] ;Word
+388;class;A1;Aula;Education;I have a math class in the morning.;;;class. [pt] Aula. [en] ;Word
+391;classroom;A1;Sala de aula;Education;We study in the classroom.;;;classroom. [pt] Sala de aula. [en] ;Word
+394;clean;A1;Limpo;;Her room is clean.;;;clean. [pt] Limpo. [en] ;Word
+397;clock;A1;Relógio;Technology;The clock shows the time.;;;clock. [pt] Relógio. [en] ;Word
+400;closed;A1;Fechado;;The shop is closed.;;;closed. [pt] Fechado. [en] ;Word
+403;clothes;A1;Roupas;Clothing;She buys new clothes.;;;clothes. [pt] Roupas. [en] ;Word
+406;coat;A1;Casaco;Clothing;He wears a warm coat in winter.;;;coat. [pt] Casaco. [en] ;Word
+409;coffee;A1;Café;Foods and drinks;She drinks coffee every morning.;;;coffee. [pt] Café. [en] ;Word
+412;cola;A1;Cola;Foods and drinks;I need cola to stick the paper.;;;cola. [pt] Cola. [en] ;Word
+415;college;A1;Faculdade;Education;He goes to college.;;;college. [pt] Faculdade. [en] ;Word
+418;Colombia;A1;Colômbia;Places;Colombia is in South America.;;;Colombia. [pt] Colômbia. [en] ;Word
+421;color;A1;Cor;Colors;Red is a bright color.;;;color. [pt] Cor. [en] ;Word
+424;colour;A1;Cor;Colors;The sky changes color at sunset.;;;colour. [pt] Cor. [en] ;Word
+427;come;A1;Vir;;Please come to the party.;;;come. [pt] Vir. [en] ;Word
+430;comedian;A1;Comediante;;She is a famous comedian.;;;comedian. [pt] Comediante. [en] ;Word
+433;comics;A1;Quadrinhos;;He likes reading comics.;;;comics. [pt] Quadrinhos. [en] ;Word
+436;company;A1;Empresa;Work;She works for a big company.;;;company. [pt] Empresa. [en] ;Word
+439;computer;A1;Computador;Technology;He uses a computer for work.;;;computer. [pt] Computador. [en] ;Word
+442;concert;A1;Concerto;;They went to a music concert.;;;concert. [pt] Concerto. [en] ;Word
+445;conversation;A1;Conversa;Communication;They had a nice conversation.;;;conversation. [pt] Conversa. [en] ;Word
+448;cooking;A1;Cozinhando;;She enjoys cooking.;;;cooking. [pt] Cozinhando. [en] ;Word
+451;cost;A1;Custo;;The shirt cost $20.;;;cost. [pt] Custo. [en] ;Word
+454;country;A1;País;Places;I love traveling to different countries.;;;country. [pt] País. [en] ;Word
+457;cousin;A1;Primo, Prima;;Her cousin lives in Canada.;;;cousin. [pt] Primo, Prima. [en] ;Word
+460;cow;A1;Vaca;Animals;The cow is in the field.;;;cow. [pt] Vaca. [en] ;Word
+463;croissant;A1;Croissant;Foods and drinks;She likes eating croissants for breakfast.;;;croissant. [pt] Croissant. [en] ;Word
+466;Cuba;A1;Cuba;Places;Cuba is an island nation.;;;Cuba. [pt] Cuba. [en] ;Word
+469;cup;A1;Xícara;;She drinks tea from a cup.;;;cup. [pt] Xícara. [en] ;Word
+472;cupcake;A1;Cupcake;Foods and drinks;She baked delicious cupcakes.;;;cupcake. [pt] Cupcake. [en] ;Word
+475;d;A1;D;;The answer is option D.;;;d. [pt] D. [en] ;Word
+478;dad;A1;Pai;;Her dad is a teacher.;;;dad. [pt] Pai. [en] ;Word
+481;dancer;A1;Dançarino;Professions;She is a good dancer.;;;dancer. [pt] Dançarino. [en] ;Word
+484;dancing;A1;Dança;;They enjoy dancing.;;;dancing. [pt] Dança. [en] ;Word
+487;dangerous;A1;Perigoso;;It's dangerous to cross the road here.;;;dangerous. [pt] Perigoso. [en] ;Word
+490;dark;A1;Escuro;Colors;The room is dark at night.;;;dark. [pt] Escuro. [en] ;Word
+493;daughter;A1;Filha;;His daughter is three years old.;;;daughter. [pt] Filha. [en] ;Word
+496;day;A1;Dia;Days of the week and months;Today is a sunny day.;;;day. [pt] Dia. [en] ;Word
+499;Days;A1;Dias;Days of the week and months;She waits for many days.;;;Days. [pt] Dias. [en] ;Word
+502;dear;A1;Caro, Querido;Emotions;Dear Mom, I miss you.;;;dear. [pt] Caro, Querido. [en] ;Word
+505;December;A1;Dezembro;Days of the week and months;December is the last month of the year.;;;December. [pt] Dezembro. [en] ;Word
+508;describe;A1;Descrever;;Can you describe the picture?;;;describe. [pt] Descrever. [en] ;Word
+511;desk;A1;Mesa, Escrivaninha;Home;Her books are on the desk.;;;desk. [pt] Mesa, Escrivaninha. [en] ;Word
+514;dialogue;A1;Diálogo;Communication;They had a good dialogue.;;;dialogue. [pt] Diálogo. [en] ;Word
+517;dictionary;A1;Dicionário;Education;He uses a dictionary to learn new words.;;;dictionary. [pt] Dicionário. [en] ;Word
+520;die;A1;Morrer;;Flowers die without water.;;;die. [pt] Morrer. [en] ;Word
+523;dining room;A1;Sala de jantar;Home;They eat dinner in the dining room.;;;dining room. [pt] Sala de jantar. [en] ;Word
+526;dinner;A1;Jantar;Foods and drinks;She cooks dinner every night.;;;dinner. [pt] Jantar. [en] ;Word
+529;dirty;A1;Sujo;;The floor is dirty.;;;dirty. [pt] Sujo. [en] ;Word
+532;discuss;A1;Discutir;;Let's discuss the plan.;;;discuss. [pt] Discutir. [en] ;Word
+535;doctor;A1;Médico;Professions;She is a doctor.;;;doctor. [pt] Médico. [en] ;Word
+538;dog;A1;Cachorro;Animals;Her dog is friendly.;;;dog. [pt] Cachorro. [en] ;Word
+541;doll;A1;Boneca;;She plays with her doll.;;;doll. [pt] Boneca. [en] ;Word
+544;dollar;A1;Dólar;;One dollar is equal to 100 cents.;;;dollar. [pt] Dólar. [en] ;Word
+547;door;A1;Porta;Home;Close the door, please.;;;door. [pt] Porta. [en] ;Word
+550;doughnut;A1;Rosquinha;Foods and drinks;She bought a chocolate doughnut.;;;doughnut. [pt] Rosquinha. [en] ;Word
+553;draw;A1;Desenhar;;Can you draw a cat?;;;draw. [pt] Desenhar. [en] ;Word
+556;drink;A1;Beber;Foods and drinks;She likes to drink juice.;;;drink. [pt] Beber. [en] ;Word
+559;driver;A1;Motorista;Professions;He is a taxi driver.;;;driver. [pt] Motorista. [en] ;Word
+562;during;A1;Durante;;He reads during his break.;;;during. [pt] Durante. [en] ;Word
+565;DVD;A1;DVD;Technology;We watched a movie on DVD.;;;DVD. [pt] DVD. [en] ;Word
+568;each;A1;Cada;;Each student has a book.;;;each. [pt] Cada. [en] ;Word
+571;each other;A1;Um ao outro;;They help each other.;;;each other. [pt] Um ao outro. [en] ;Word
+574;ear;A1;Orelha;Human body and health;Her ear hurts.;;;ear. [pt] Orelha. [en] ;Word
+577;east;A1;Leste;;The sun rises in the east.;;;east. [pt] Leste. [en] ;Word
+580;eat;A1;Comer;;I eat breakfast in the morning.;;;eat. [pt] Comer. [en] ;Word
+583;Ecuador;A1;Equador;Places;Ecuador is in South America.;;;Ecuador. [pt] Equador. [en] ;Word
+586;egg;A1;Ovo;Foods and drinks;She cooks eggs for breakfast.;;;egg. [pt] Ovo. [en] ;Word
+589;eight;A1;Oito;Numbers;There are eight planets in our solar system.;;;eight. [pt] Oito. [en] ;Word
+592;eighteen;A1;Dezoito;Numbers;She turns eighteen next month.;;;eighteen. [pt] Dezoito. [en] ;Word
+595;eighth;A1;Oitavo;Numbers;He is in the eighth grade.;;;eighth. [pt] Oitavo. [en] ;Word
+598;eighty;A1;Oitenta;Numbers;There are eighty students in the class.;;;eighty. [pt] Oitenta. [en] ;Word
+601;electric piano;A1;piano elétrico;;She plays the electric piano well.;;;electric piano. [pt] piano elétrico. [en] ;Word
+605;electronics shop;A1;loja de eletrônicos;;I bought a new phone at the electronics shop.;;;electronics shop. [pt] loja de eletrônicos. [en] ;Word
+609;elephant;A1;elefante;Animals;The elephant is big and gray.;;;elephant. [pt] elefante. [en] ;Word
+613;eleven;A1;onze;Numbers;There are eleven students in the class.;;;eleven. [pt] onze. [en] ;Word
+617;eleventh;A1;décimo primeiro;Numbers;He came in eleventh place.;;;eleventh. [pt] décimo primeiro. [en] ;Word
+621;else;A1;mais, outra coisa;;Is there anything else you need?;;;else. [pt] mais, outra coisa. [en] ;Word
+625;email;A1;e-mail;;I received an email from her.;;;email. [pt] e-mail. [en] ;Word
+629;end;A1;fim;;The book has come to an end.;;;end. [pt] fim. [en] ;Word
+633;engineer;A1;engenheiro;Professions;My dad is an engineer.;;;engineer. [pt] engenheiro. [en] ;Word
+637;England;A1;Inglaterra;Places;I want to visit England someday.;;;England. [pt] Inglaterra. [en] ;Word
+641;enough;A1;suficiente;;Do you have enough money?;;;enough. [pt] suficiente. [en] ;Word
+645;enthusiastic;A1;entusiasmado;Emotions;She was very enthusiastic about the project.;;;enthusiastic. [pt] entusiasmado. [en] ;Word
+649;environment;A1;ambiente;;We need to protect the environment.;;;environment. [pt] ambiente. [en] ;Word
+653;euro;A1;euro;;The price is in euros.;;;euro. [pt] euro. [en] ;Word
+657;Europe;A1;Europa;Places;My family is going to Europe for vacation.;;;Europe. [pt] Europa. [en] ;Word
+661;evening;A1;noite;;We have dinner in the evening.;;;evening. [pt] noite. [en] ;Word
+665;ever;A1;alguma vez;;Have you ever been to France?;;;ever. [pt] alguma vez. [en] ;Word
+669;every;A1;todo, cada;;I go for a walk every morning.;;;every. [pt] todo, cada. [en] ;Word
+673;everybody;A1;todos;;Everybody likes pizza.;;;everybody. [pt] todos. [en] ;Word
+677;everyone;A1;todos;;Everyone is excited for the party.;;;everyone. [pt] todos. [en] ;Word
+681;everything;A1;tudo;;I have everything I need for the trip.;;;everything. [pt] tudo. [en] ;Word
+685;exam;A1;exame;Education;She has an English exam next week.;;;exam. [pt] exame. [en] ;Word
+689;example;A1;exemplo;;Can you give me an example of that?;;;example. [pt] exemplo. [en] ;Word
+693;excuse;A1;desculpa;;Please excuse my mistake.;;;excuse. [pt] desculpa. [en] ;Word
+697;exercise;A1;exercício;Human body and health;I do exercise every morning.;;;exercise. [pt] exercício. [en] ;Word
+701;eye;A1;olho;Human body and health;His eye color is brown.;;;eye. [pt] olho. [en] ;Word
+705;face;A1;rosto, encarar;Human body and health;She washed her face before bed.;;;face. [pt] rosto, encarar. [en] ;Word
+709;fact;A1;fato;;It's a well-known fact.;;;fact. [pt] fato. [en] ;Word
+713;factory;A1;fábrica;Places;My dad works in a factory.;;;factory. [pt] fábrica. [en] ;Word
+717;fall;A1;queda, outono;;Leaves fall from the trees in fall.;;;fall. [pt] queda, outono. [en] ;Word
+721;false;A1;FALSO;;That statement is false.;;;false. [pt] falso. [en] ;Word
+725;famous;A1;famoso;;She is a famous actress.;;;famous. [pt] famoso. [en] ;Word
+729;fantastic;A1;fantástico;Emotions;It was a fantastic movie.;;;fantastic. [pt] fantástico. [en] ;Word
+733;farm;A1;fazenda;Places;They live on a farm.;;;farm. [pt] fazenda. [en] ;Word
+737;farmer;A1;agricultor;Professions;The farmer grows vegetables.;;;farmer. [pt] agricultor. [en] ;Word
+741;fast;A1;rápido, jejum;;He is a fast runner.;;;fast. [pt] rápido, jejum. [en] ;Word
+745;fat;A1;gordo;;The cat is fat.;;;fat. [pt] gordo. [en] ;Word
+749;father;A1;pai;;My father is a doctor.;;;father. [pt] pai. [en] ;Word
+753;favorite;A1;favorito;;Pizza is my favorite food.;;;favorite. [pt] favorito. [en] ;Word
+757;February;A1;fevereiro;Days of the week and months;My birthday is in February.;;;February. [pt] fevereiro. [en] ;Word
+761;feet;A1;pés;Human body and health;He has big feet.;;;feet. [pt] pés. [en] ;Word
+765;fifteen;A1;quinze;Numbers;I'll be there at fifteen minutes past three.;;;fifteen. [pt] quinze. [en] ;Word
+769;fifty;A1;cinquenta;Numbers;He turned fifty last month.;;;fifty. [pt] cinquenta. [en] ;Word
+773;filling;A1;preenchimento;;The cake has a chocolate filling.;;;filling. [pt] preenchimento. [en] ;Word
+777;first floor;A1;primeiro andar;Home;The shop is on the first floor.;;;first floor. [pt] primeiro andar. [en] ;Word
+781;fishing;A1;pesca;;He enjoys fishing on weekends.;;;fishing. [pt] pesca. [en] ;Word
+785;five;A1;cinco;Numbers;There are five apples in the basket.;;;five. [pt] cinco. [en] ;Word
+789;flight;A1;voo;;Our flight is delayed.;;;flight. [pt] voo. [en] ;Word
+793;flower;A1;flor;Nature;She loves to pick flowers in the garden.;;;flower. [pt] flor. [en] ;Word
+797;food;A1;comida;Foods and drinks;We're having Italian food for dinner.;;;food. [pt] comida. [en] ;Word
+801;foot;A1;pé;Human body and health;The ball hit my foot.;;;foot. [pt] pé. [en] ;Word
+805;football;A1;futebol;Sports;They play football every Sunday.;;;football. [pt] futebol. [en] ;Word
+809;for me;A1;para mim;;This gift is for me.;;;for me. [pt] para mim. [en] ;Word
+813;foreign language;A1;língua estrangeira;Education;I'm learning a foreign language.;;;foreign language. [pt] língua estrangeira. [en] ;Word
+817;forest;A1;floresta;Nature;They went for a hike in the forest.;;;forest. [pt] floresta. [en] ;Word
+821;forty;A1;quarenta;Numbers;I need forty pieces of paper.;;;forty. [pt] quarenta. [en] ;Word
+825;foundation;A1;fundação, base;;They built the house on a solid foundation.;;;foundation. [pt] fundação, base. [en] ;Word
+829;four;A1;quatro;Numbers;There are four chairs in the room.;;;four. [pt] quatro. [en] ;Word
+833;fourteen;A1;quatorze;Numbers;She turned fourteen last week.;;;fourteen. [pt] quatorze. [en] ;Word
+837;fourth;A1;quarto;Numbers;He came in fourth place in the race.;;;fourth. [pt] quarto. [en] ;Word
+841;France;A1;França;Places;France is famous for its beautiful landmarks.;;;France. [pt] França. [en] ;Word
+844;free;A1;livre, grátis;;I have a free afternoon today.;The concert tickets were free of charge.;;free. [pt] livre, grátis. [en] ;Word
+848;friday;A1;sexta-feira;Days of the week and months;We're going out for dinner on Friday.;;;friday. [pt] sexta-feira. [en] ;Word
+851;fridge;A1;geladeira;Home;There's some milk in the fridge.;;;fridge. [pt] geladeira. [en] ;Word
+854;friend;A1;amigo;;Sarah is my best friend.;;;friend. [pt] amigo. [en] ;Word
+857;friendly;A1;amigável;Emotions;The dog was very friendly with everyone.;;;friendly. [pt] amigável. [en] ;Word
+860;fruit;A1;fruta;Foods and drinks;I like to eat fresh fruit in the morning.;;;fruit. [pt] fruta. [en] ;Word
+863;game;A1;jogo;;We're playing a game of cards tonight.;;;game. [pt] jogo. [en] ;Word
+866;garden;A1;jardim;;I love spending time in my garden.;;;garden. [pt] jardim. [en] ;Word
+869;geography;A1;geografia;Education;Geography is the study of the Earth's landscapes.;;;geography. [pt] geografia. [en] ;Word
+872;Germany;A1;Alemanha;Places;I've been to Germany once.;;;Germany. [pt] Alemanha. [en] ;Word
+875;girl;A1;garota;;The girl in the blue dress is my sister.;;;girl. [pt] garota. [en] ;Word
+878;glass;A1;copo, vidro;;Can I have a glass of water?;The window is made of glass.;;glass. [pt] copo, vidro. [en] ;Word
+882;glasses;A1;óculos;;She wears glasses when reading.;;;glasses. [pt] óculos. [en] ;Word
+885;glider;A1;planador;Transportation;The glider soared gracefully through the sky.;;;glider. [pt] planador. [en] ;Word
+888;goldfish;A1;peixe dourado;Animals;My sister has a pet goldfish.;;;goldfish. [pt] peixe dourado. [en] ;Word
+891;golf course;A1;campo de golfe;Sports;There's a beautiful golf course nearby.;;;golf course. [pt] campo de golfe. [en] ;Word
+894;good afternoon;A1;boa tarde;;"The receptionist greeted us with a warm ""good afternoon.""";;;good afternoon. [pt] boa tarde. [en] ;Word
+897;good evening;A1;boa noite, tarde;;"We bid them farewell with a cheerful ""good evening.""";;;good evening. [pt] boa noite, tarde. [en] ;Word
+900;good morning;A1;bom dia;;"He greeted us with a bright ""good morning.""";;;good morning. [pt] bom dia. [en] ;Word
+903;good night;A1;boa noite;;She kissed her children good night.;;;good night. [pt] boa noite. [en] ;Word
+906;goodbye;A1;adeus;;Saying goodbye is always difficult.;;;goodbye. [pt] adeus. [en] ;Word
+909;gorilla;A1;gorila;Animals;The zoo has a family of gorillas.;;;gorilla. [pt] gorila. [en] ;Word
+912;grandfather;A1;avô;;My grandfather loves to tell stories.;;;grandfather. [pt] avô. [en] ;Word
+915;grandmother;A1;avó;;My grandmother bakes delicious cakes.;;;grandmother. [pt] avó. [en] ;Word
+918;grandparent;A1;avô, avó;;She loves spending time with her grandparents.;;;grandparent. [pt] avô, avó. [en] ;Word
+921;grandparents;A1;avós;;We visit our grandparents every Sunday.;;;grandparents. [pt] avós. [en] ;Word
+924;grass;A1;grama;Nature;The grass in the park is so green.;;;grass. [pt] grama. [en] ;Word
+927;gray;A1;cinza;Colors;He wears a gray suit to work.;;;gray. [pt] cinza. [en] ;Word
+930;green;A1;verde;Colors;The grass is green.;;;green. [pt] verde. [en] ;Word
+933;grey;A1;cinza;;His cat has beautiful grey fur.;;;grey. [pt] cinza. [en] ;Word
+936;group;A1;grupo;;We are in a study group for our exams.;;;group. [pt] grupo. [en] ;Word
+939;guest;A1;convidado;;We have a guest coming for dinner tonight.;;;guest. [pt] convidado. [en] ;Word
+942;guitar;A1;violão, guitarra;;She plays the guitar in a band.;;;guitar. [pt] violão, guitarra. [en] ;Word
+945;guy;A1;rapaz;;The guy over there is my friend.;;;guy. [pt] rapaz. [en] ;Word
+948;hair;A1;cabelo;Human body and health;Her hair is long and brown.;;;hair. [pt] cabelo. [en] ;Word
+951;hand;A1;mão;Human body and health;He shook my hand when we met.;;;hand. [pt] mão. [en] ;Word
+954;happy;A1;feliz;Emotions;They are happy to see you.;;;happy. [pt] feliz. [en] ;Word
+957;hat;A1;chapéu;Clothing;She wore a hat to protect herself from the sun.;;;hat. [pt] chapéu. [en] ;Word
+960;have;A1;ter;;I have a pen in my bag.;She will have lunch later.;;have. [pt] ter. [en] ;Word
+964;have to;A1;ter que;;He has to finish his homework before bedtime.;;;have to. [pt] ter que. [en] ;Word
+967;he;A1;ele;;He is a good friend of mine.;;;he. [pt] ele. [en] ;Word
+970;headache;A1;dor de cabeça;Human body and health;She has a headache after a long day at work.;;;headache. [pt] dor de cabeça. [en] ;Word
+973;healthy;A1;saudável;Human body and health;Eating fruits and vegetables is healthy.;;;healthy. [pt] saudável. [en] ;Word
+976;hello;A1;olá;;Hello, how are you today?;;;hello. [pt] olá. [en] ;Word
+979;help;A1;ajuda;;Can you help me with my homework?;;;help. [pt] ajuda. [en] ;Word
+982;her;A1;ela, dela;;I saw her at the store yesterday.;;;her. [pt] ela, dela. [en] ;Word
+985;here;A1;aqui;;Come here, I have something to show you.;;;here. [pt] aqui. [en] ;Word
+988;hey;A1;oi;;Hey, how's it going?;;;hey. [pt] oi. [en] ;Word
+991;hi;A1;oi, olá;;"She greeted me with a cheerful ""hi"".";;;hi. [pt] oi, olá. [en] ;Word
+994;him;A1;ele, o;;I gave him the book yesterday.;;;him. [pt] ele, o. [en] ;Word
+997;his;A1;dele, o;;His car is parked outside.;;;his. [pt] dele, o. [en] ;Word
+1000;hobby;A1;hobby, passatempo;;Painting is her hobby.;;;hobby. [pt] hobby, passatempo. [en] ;Word
+1003;holiday;A1;feriado, férias;;They are going on holiday next week.;;;holiday. [pt] feriado, férias. [en] ;Word
+1006;horror film;A1;filme de terror;;She doesn't like horror films.;;;horror film. [pt] filme de terror. [en] ;Word
+1009;horse;A1;cavalo;Animals;The horse ran quickly across the field.;;;horse. [pt] cavalo. [en] ;Word
+1012;hospital;A1;hospital;Places;My friend works at the hospital.;;;hospital. [pt] hospital. [en] ;Word
+1015;hot dog;A1;cachorro-quente;Foods and drinks;He likes to eat a hot dog at baseball games.;;;hot dog. [pt] cachorro-quente. [en] ;Word
+1018;hotel;A1;hotel;Places;They stayed at a luxurious hotel during their trip.;;;hotel. [pt] hotel. [en] ;Word
+1021;hour;A1;hora;;It takes about an hour to drive there.;;;hour. [pt] hora. [en] ;Word
+1024;hours;A1;hora;;She sleeps for eight hours every night.;;;hours. [pt] hora. [en] ;Word
+1027;house;A1;casa;Home;They have a big house with a garden.;;;house. [pt] casa. [en] ;Word
+1030;however;A1;no entanto, entretanto;;"I wanted to go; however, I couldn’t.";;;however. [pt] no entanto, entretanto. [en] ;Word
+1033;hundred;A1;cem;Numbers;There are a hundred students in the school.;;;hundred. [pt] cem. [en] ;Word
+1036;hungry;A1;com fome;;He is always hungry after playing soccer.;;;hungry. [pt] com fome. [en] ;Word
+1039;husband;A1;marido;;Her husband is a doctor.;;;husband. [pt] marido. [en] ;Word
+1042;I;A1;eu;;I like to read books.;;;I. [pt] eu. [en] ;Word
+1045;ice;A1;gelo;Foods and drinks;Can you put some ice in my drink, please?;;;ice. [pt] gelo. [en] ;Word
+1048;ice cream;A1;sorvete;Foods and drinks;She loves to eat chocolate ice cream.;;;ice cream. [pt] sorvete. [en] ;Word
+1051;improve;A1;melhorar;;Practice can help you improve your English.;;;improve. [pt] melhorar. [en] ;Word
+1054;in fact;A1;na verdade, de fato;;"I thought she was sick; in fact, she was busy.";;;in fact. [pt] na verdade, de fato. [en] ;Word
+1057;in the;A1;no, a;;The book is in the bag.;;;in the. [pt] no, a. [en] ;Word
+1060;in three days;A1;em três dias;;They will arrive here in three days.;;;in three days. [pt] em três dias. [en] ;Word
+1063;include;A1;incluir;;Does the price include shipping?;;;include. [pt] incluir. [en] ;Word
+1066;Indian;A1;indiano;;She has an Indian friend.;;;Indian. [pt] indiano. [en] ;Word
+1069;information;A1;informação;;Where can I find information about the museum?;;;information. [pt] informação. [en] ;Word
+1072;inside;A1;dentro;;Come inside, it's cold out here.;;;inside. [pt] dentro. [en] ;Word
+1075;instructions;A1;instruções;;Follow the instructions carefully.;;;instructions. [pt] instruções. [en] ;Word
+1078;interested;A1;interessado;;She seems interested in learning to play the piano.;;;interested. [pt] interessado. [en] ;Word
+1081;interested in;A1;interessado em;;He is interested in history.;;;interested in. [pt] interessado em. [en] ;Word
+1084;interesting;A1;interessante;;It's an interesting book to read.;;;interesting. [pt] interessante. [en] ;Word
+1087;international;A1;internacional;;They have an international business.;;;international. [pt] internacional. [en] ;Word
+1090;internet;A1;internet;Technology;I use the internet for research.;;;internet. [pt] internet. [en] ;Word
+1093;invitation;A1;convite;;Did you receive the invitation to the party?;;;invitation. [pt] convite. [en] ;Word
+1096;invite;A1;convidar;;They invite friends over for dinner.;;;invite. [pt] convidar. [en] ;Word
+1099;ironing board;A1;tábua de passar roupa;Home;She bought a new ironing board.;;;ironing board. [pt] tábua de passar roupa. [en] ;Word
+1102;is;A1;é, está;;He is a doctor.;;;is. [pt] é, está. [en] ;Word
+1105;island;A1;ilha;Places;They went on vacation to an island.;;;island. [pt] ilha. [en] ;Word
+1108;it;A1;ele, ela, isso;;It is a beautiful day today.;;;it. [pt] ele, ela, isso. [en] ;Word
+1111;Italian;A1;italiano;;She speaks Italian fluently.;;;Italian. [pt] italiano. [en] ;Word
+1114;Italy;A1;Itália;Places;They visited Italy last summer.;;;Italy. [pt] Itália. [en] ;Word
+1117;its;A1;seu, sua;;The cat washed its face.;;;its. [pt] seu, sua. [en] ;Word
+1120;jacket;A1;casaco;Clothing;She wore a warm jacket in the winter.;;;jacket. [pt] casaco. [en] ;Word
+1124;January;A1;janeiro;Days of the week and months;My birthday is in January.;;;January. [pt] janeiro. [en] ;Word
+1128;Japan;A1;Japão;Places;They traveled to Japan last year.;;;Japan. [pt] Japão. [en] ;Word
+1132;jeans;A1;calças de ganga;Clothing;He likes to wear jeans on casual days.;;;jeans. [pt] calças de ganga. [en] ;Word
+1136;job;A1;trabalho;Work;She has a job at the hospital.;;;job. [pt] trabalho. [en] ;Word
+1140;juice;A1;suco;Foods and drinks;Orange juice is her favorite drink.;;;juice. [pt] suco. [en] ;Word
+1144;July;A1;julho;Days of the week and months;They go on vacation in July every year.;;;July. [pt] julho. [en] ;Word
+1148;jumper;A1;blusa, casaco de malha;Clothing;She bought a new jumper for the winter.;;;jumper. [pt] blusa, casaco de malha. [en] ;Word
+1152;June;A1;junho;Days of the week and months;Our anniversary is in June.;;;June. [pt] junho. [en] ;Word
+1156;keep warm;A1;manter aquecido;;Wear a sweater to keep warm in the cold.;;;keep warm. [pt] manter aquecido. [en] ;Word
+1160;kilometre;A1;quilômetro;Numbers;The park is a few kilometers away.;;;kilometre. [pt] quilômetro. [en] ;Word
+1164;kitchen;A1;cozinha;Home;She's cooking in the kitchen.;;;kitchen. [pt] cozinha. [en] ;Word
+1168;knee;A1;joelho;Human body and health;He hurt his knee playing football.;;;knee. [pt] joelho. [en] ;Word
+1172;knife;A1;faca;;Please pass me the knife.;;;knife. [pt] faca. [en] ;Word
+1176;language school;A1;escola de idiomas;Education;She attends a language school to learn Spanish.;;;language school. [pt] escola de idiomas. [en] ;Word
+1180;laptop;A1;computador portátil;Technology;He always brings his laptop to work.;;;laptop. [pt] computador portátil. [en] ;Word
+1184;large;A1;grande;;They live in a large house.;;;large. [pt] grande. [en] ;Word
+1188;later;A1;mais tarde;;I will call you later.;;;later. [pt] mais tarde. [en] ;Word
+1192;left;A1;esquerda;;The store is on the left side of the street.;;;left. [pt] esquerda. [en] ;Word
+1196;leg;A1;perna;Human body and health;He injured his leg while playing soccer.;;;leg. [pt] perna. [en] ;Word
+1200;lesson;A1;aula, lição;Education;She had an English lesson today.;;;lesson. [pt] aula, lição. [en] ;Word
+1204;letter;A1;carta;;She received a letter from her friend.;;;letter. [pt] carta. [en] ;Word
+1208;library;A1;biblioteca;Places;She borrowed some books from the library.;;;library. [pt] biblioteca. [en] ;Word
+1212;lion;A1;leão;Animals;The lion roared loudly at the zoo.;;;lion. [pt] leão. [en] ;Word
+1216;list;A1;lista;;She made a shopping list.;;;list. [pt] lista. [en] ;Word
+1220;lives;A1;vidas, mora;;Cats have nine lives.;She lives in a small town.;;lives. [pt] vidas, mora. [en] ;Word
+1225;living room;A1;sala de estar;Home;They gathered in the living room to watch TV.;;;living room. [pt] sala de estar. [en] ;Word
+1229;long;A1;longo;;The movie is quite long.;;;long. [pt] longo. [en] ;Word
+1233;lot;A1;lote, muito;;She bought a lot at the auction.;There's a lot of traffic today.;;lot. [pt] lote, muito. [en] ;Word
+1238;lovely;A1;encantador;Emotions;She received a lovely gift for her birthday.;;;lovely. [pt] encantador. [en] ;Word
+1242;lunch;A1;almoço;Foods and drinks;They had lunch at their favorite restaurant.;;;lunch. [pt] almoço. [en] ;Word
+1246;machine;A1;máquina;Technology;She operates the machine at the factory.;;;machine. [pt] máquina. [en] ;Word
+1250;magazine;A1;revista;;She enjoys reading fashion magazines.;;;magazine. [pt] revista. [en] ;Word
+1254;man;A1;homem;;The man walked down the street.;;;man. [pt] homem. [en] ;Word
+1258;many;A1;muitos;;She has many friends.;;;many. [pt] muitos. [en] ;Word
+1262;map;A1;mapa;;He used the map to find the way.;;;map. [pt] mapa. [en] ;Word
+1266;March;A1;março;Days of the week and months;His birthday is in March.;;;March. [pt] março. [en] ;Word
+1270;married;A1;casado;;They have been married for ten years.;;;married. [pt] casado. [en] ;Word
+1274;May;A1;maio;Days of the week and months;She graduates in May.;;;May. [pt] maio. [en] ;Word
+1278;maybe;A1;talvez;;Maybe we'll go to the beach tomorrow.;;;maybe. [pt] talvez. [en] ;Word
+1282;me;A1;eu, mim;;He asked me to help.;She talked to me yesterday.;;me. [pt] eu, mim. [en] ;Word
+1287;meat;A1;carne;Foods and drinks;She bought some meat at the store.;;;meat. [pt] carne. [en] ;Word
+1291;meeting;A1;reunião;;They have a meeting at 10 AM.;;;meeting. [pt] reunião. [en] ;Word
+1295;member;A1;membro;;She's a member of the club.;;;member. [pt] membro. [en] ;Word
+1299;men;A1;homens;;The men worked together on the project.;;;men. [pt] homens. [en] ;Word
+1303;menu;A1;cardápio;;They ordered from the menu.;;;menu. [pt] cardápio. [en] ;Word
+1307;message;A1;mensagem;;She received a message on her phone.;;;message. [pt] mensagem. [en] ;Word
+1311;meter;A1;medidor;;The electricity meter tracks energy usage.;;;meter. [pt] medidor. [en] ;Word
+1315;metre;A1;metro;;She walked a few meters and stopped.;;;metre. [pt] metro. [en] ;Word
+1319;Mexico;A1;México;Places;They traveled to Mexico for vacation.;;;Mexico. [pt] México. [en] ;Word
+1323;microwave;A1;micro-ondas;Technology;She heated her food in the microwave.;;;microwave. [pt] micro-ondas. [en] ;Word
+1327;midday;A1;meio-dia;;They usually eat lunch at midday.;;;midday. [pt] meio-dia. [en] ;Word
+1331;midnight;A1;meia-noite;;The party ended at midnight.;;;midnight. [pt] meia-noite. [en] ;Word
+1335;milk;A1;leite;Foods and drinks;She bought a gallon of milk.;;;milk. [pt] leite. [en] ;Word
+1339;million;A1;milhão;Numbers;He won a million dollars in the lottery.;;;million. [pt] milhão. [en] ;Word
+1343;millionaire;A1;milionário;;He's a successful millionaire.;;;millionaire. [pt] milionário. [en] ;Word
+1347;mini;A1;mini-bar;Home;The hotel room had a mini-bar.;;;mini-bar. [pt] mini-bar. [en] ;Word
+1351;minute;A1;minuto;;She waited for him for a minute.;;;minute. [pt] minuto. [en] ;Word
+1355;mobile;A1;móvel;Technology;She bought a new mobile for her room.;;;mobile. [pt] móvel. [en] ;Word
+1359;mobile phone;A1;telefone celular;Technology;Her mobile phone rang during class.;;;mobile phone. [pt] telefone celular. [en] ;Word
+1363;mom;A1;mamãe;;His mom cooked his favorite meal.;;;mom. [pt] mamãe. [en] ;Word
+1367;Monday;A1;segunda-feira;Days of the week and months;She has a meeting every Monday.;;;monday. [pt] segunda-feira. [en] ;Word
+1371;money;A1;dinheiro;;She saved a lot of money.;;;money. [pt] dinheiro. [en] ;Word
+1375;month;A1;mês;Days of the week and months;Her birthday is next month.;;;month. [pt] mês. [en] ;Word
+1379;morning;A1;manhã;;He goes for a jog every morning.;;;morning. [pt] manhã. [en] ;Word
+1383;mother;A1;mãe;;His mother baked cookies for him.;;;mother. [pt] mãe. [en] ;Word
+1387;motorbike;A1;moto;Transportation;He rides his motorbike to work.;;;motorbike. [pt] moto. [en] ;Word
+1391;mountain;A1;montanha;;They climbed the mountain last summer.;;;mountain. [pt] montanha. [en] ;Word
+1395;mouse;A1;rato;;She saw a mouse in the kitchen.;;;mouse. [pt] rato. [en] ;Word
+1399;mouth;A1;boca;Human body and health;He burned his mouth eating hot soup.;;;mouth. [pt] boca. [en] ;Word
+1403;movie;A1;filme;;They watched a movie last night.;;;movie. [pt] filme. [en] ;Word
+1407;Mr;A1;Sr.;;Mr. Smith is her teacher.;;;Mr. [pt] Sr.. [en] ;Word
+1411;Mrs;A1;Sra.;;Mrs. Johnson is her neighbor.;;;Mrs. [pt] Sra.. [en] ;Word
+1415;mum;A1;mamãe;;His mum helps him with homework.;;;mum. [pt] mamãe. [en] ;Word
+1419;museum;A1;museu;Places;They visited the museum last weekend.;;;museum. [pt] museu. [en] ;Word
+1423;music;A1;música;;She loves listening to music.;;;music. [pt] música. [en] ;Word
+1427;my;A1;meu, minha;;My cat likes to sleep on the;;;my. [pt] meu, minha. [en] ;Word
+1431;nationality;A1;nacionalidade , país;;Her nationality is French.;They visited a few European nationalities.;;nationality. [pt] nacionalidade , país. [en] ;Word
+1436;neck;A1;pescoço , parte de uma garrafa ou jarro;Human body and health;He hurt his neck in the accident.;The wine bottle has a long neck.;;neck. [pt] pescoço , parte de uma garrafa ou jarro. [en] ;Word
+1441;neighbor/neighbour;A1;vizinho;;Our neighbor has a friendly dog.;;;neighbor. [pt] vizinho. [en] ;Word
+1444;neighborhood/neighbourhood;A1;bairro;;They live in a quiet neighborhood.;;;neighborhood. [pt] bairro. [en] ;Word
+1447;neighbour;A1;vizinho;;Her neighbor helped with the gardening.;;;neighbour. [pt] vizinho. [en] ;Word
+1450;never;A1;nunca;;She never arrives late.;;;never. [pt] nunca. [en] ;Word
+1453;new;A1;novo , recente;;They bought a new car.;Have you heard the new song?;;new. [pt] novo , recente. [en] ;Word
+1458;news;A1;notícias;;I watch the news every evening.;;;news. [pt] notícias. [en] ;Word
+1461;newspaper;A1;jornal;;He reads the newspaper every morning.;;;newspaper. [pt] jornal. [en] ;Word
+1464;next to;A1;ao lado de;;The library is next to the supermarket.;;;next to. [pt] ao lado de. [en] ;Word
+1467;nice;A1;legal , agradável;Emotions;He is a really nice person.;She found a nice café downtown.;;nice. [pt] legal , agradável. [en] ;Word
+1472;night;A1;noite;;I sleep early at night.;;;night. [pt] noite. [en] ;Word
+1475;nine;A1;nove;Numbers;There are nine planets in our solar system.;;;nine. [pt] nove. [en] ;Word
+1478;nineteen;A1;dezenove;Numbers;She turns nineteen next month.;;;nineteen. [pt] dezenove. [en] ;Word
+1481;ninety;A1;noventa;Numbers;He lived to be ninety years old.;;;ninety. [pt] noventa. [en] ;Word
+1484;ninth;A1;nono;Numbers;He finished ninth in the race.;;;ninth. [pt] nono. [en] ;Word
+1487;no;A1;não , nenhum;;No, I haven't seen him.;There's no sugar left.;;no. [pt] não , nenhum. [en] ;Word
+1492;no one;A1;ninguém;;No one was at home when I arrived.;;;no one. [pt] ninguém. [en] ;Word
+1495;nobody;A1;ninguém;;Nobody wants to go to the meeting.;;;nobody. [pt] ninguém. [en] ;Word
+1498;noise;A1;barulho;;The noise woke me up early.;;;noise. [pt] barulho. [en] ;Word
+1501;north;A1;norte;;They live in the north of the city.;;;north. [pt] norte. [en] ;Word
+1504;nose;A1;nariz;Human body and health;She has a small nose.;;;nose. [pt] nariz. [en] ;Word
+1507;notepad;A1;bloco de notas;;He always carries a notepad in his bag.;;;notepad. [pt] bloco de notas. [en] ;Word
+1510;noun;A1;substantivo;Education;A noun is a naming word.;;;noun. [pt] substantivo. [en] ;Word
+1513;November;A1;novembro;Days of the week and months;His birthday is in November.;;;November. [pt] novembro. [en] ;Word
+1516;number;A1;número;Numbers;What is your phone number?;;;number. [pt] número. [en] ;Word
+1519;Numbers;A1;números;Numbers;She is learning Numbers in her math class.;;;Numbers. [pt] números. [en] ;Word
+1522;o’clock;A1;em ponto;;It's two o'clock in the afternoon.;;;o’clock. [pt] em ponto. [en] ;Word
+1525;October;A1;outubro;Days of the week and months;Halloween is in October.;;;October. [pt] outubro. [en] ;Word
+1528;often;A1;frequentemente;;She often goes for a walk in the evening.;;;often. [pt] frequentemente. [en] ;Word
+1531;oh;A1;ah;;Oh, I see what you mean.;;;oh. [pt] ah. [en] ;Word
+1534;ok;A1;ok;;It's ok, don't worry.;;;ok. [pt] ok. [en] ;Word
+1537;old;A1;velho , antigo;;He lives in an old house.;She collects old books.;;old. [pt] velho , antigo. [en] ;Word
+1542;one;A1;um;Numbers;I'll have one coffee, please.;;;one. [pt] um. [en] ;Word
+1545;onion;A1;cebola;Foods and drinks;She chopped the onion for the soup.;;;onion. [pt] cebola. [en] ;Word
+1548;online;A1;online;Technology;They sell clothes online.;;;online. [pt] online. [en] ;Word
+1551;only;A1;somente;;I have only one sister.;;;only. [pt] somente. [en] ;Word
+1554;opening times;A1;horários de funcionamento;;Check the opening times before you go.;;;opening times. [pt] horários de funcionamento. [en] ;Word
+1557;orange;A1;laranja , cor;;He likes to eat oranges.;She painted the walls in an orange color.;;orange. [pt] laranja , cor. [en] ;Word
+1562;orange juice;A1;suco de laranja;Foods and drinks;She prefers orange juice over apple juice.;;;orange juice. [pt] suco de laranja. [en] ;Word
+1565;our;A1;nosso;;Our house is on the corner.;;;our. [pt] nosso. [en] ;Word
+1568;outside;A1;fora , do lado de fora;;Let's play outside in the garden.;;;outside. [pt] fora , do lado de fora. [en] ;Word
+1571;p.m.;A1;p.m.;;The movie starts at 9 p.m.;;;p.m.. [pt] p.m.. [en] ;Word
+1574;page;A1;página;;Turn to page ten in your book.;;;page. [pt] página. [en] ;Word
+1577;paint;A1;pintar , tinta;;She likes to paint on weekends.;Buy some yellow paint for the walls.;;paint. [pt] pintar , tinta. [en] ;Word
+1582;paintbrush;A1;pincel;;She uses a small paintbrush for details.;;;paintbrush. [pt] pincel. [en] ;Word
+1585;painting;A1;pintura , quadro;;She finished her painting last night.;The painting is hung on the wall.;;painting. [pt] pintura , quadro. [en] ;Word
+1590;pair;A1;par;;She bought a pair of shoes.;;;pair. [pt] par. [en] ;Word
+1593;pants;A1;calças;Clothing;He bought new pants for work.;;;pants. [pt] calças. [en] ;Word
+1596;Paraguay;A1;Paraguai;Places;They traveled to Paraguay last summer.;;;Paraguay. [pt] Paraguai. [en] ;Word
+1599;parent;A1;pai ou mãe;;She's a parent of three children.;;;parent. [pt] pai ou mãe. [en] ;Word
+1602;parents;A1;pais;;His parents live in another city.;;;parents. [pt] pais. [en] ;Word
+1605;park;A1;parque;Places;They visited the park on Sunday.;;;park. [pt] parque. [en] ;Word
+1608;passport;A1;passaporte;;Don't forget your passport when you travel.;;;passport. [pt] passaporte. [en] ;Word
+1611;pen;A1;caneta;;Do you have a pen I can borrow?;;;pen. [pt] caneta. [en] ;Word
+1614;pence;A1;centavos;;The candy costs twenty pence.;;;pence. [pt] centavos. [en] ;Word
+1617;pencil;A1;lápis;;She wrote the note with a pencil.;;;pencil. [pt] lápis. [en] ;Word
+1620;people;A1;pessoas;;People are waiting for the bus.;;;people. [pt] pessoas. [en] ;Word
+1623;person;A1;pessoa;;She's a friendly person.;;;person. [pt] pessoa. [en] ;Word
+1626;Peru;A1;Peru;Places;They plan to visit Peru next summer.;;;Peru. [pt] Peru. [en] ;Word
+1629;pet;A1;animal de estimação;Animals;Their pet dog is very playful.;;;pet. [pt] animal de estimação. [en] ;Word
+1632;phone;A1;telefone;Technology;I'll call you on the phone.;;;phone. [pt] telefone. [en] ;Word
+1635;phone number;A1;número de telefone;Technology;Can I have your phone number?;;;phone number. [pt] número de telefone. [en] ;Word
+1638;photo;A1;foto;;She took a photo of the sunset.;;;photo. [pt] foto. [en] ;Word
+1641;piano;A1;piano;;She plays the piano every evening.;;;piano. [pt] piano. [en] ;Word
+1644;picnic;A1;piquenique;;They had a picnic in the park.;;;picnic. [pt] piquenique. [en] ;Word
+1647;pig;A1;porco;Animals;They have a pet pig on the farm.;;;pig. [pt] porco. [en] ;Word
+1650;pink;A1;rosa;Colors;She painted her room pink.;;;pink. [pt] rosa. [en] ;Word
+1653;pizza;A1;pizza;Foods and drinks;Let's order pizza for dinner.;;;pizza. [pt] pizza. [en] ;Word
+1656;plane;A1;avião;Transportation;They traveled by plane to Europe.;;;plane. [pt] avião. [en] ;Word
+1659;plate;A1;prato;;He put the food on the plate.;;;plate. [pt] prato. [en] ;Word
+1662;player;A1;jogador;;He's a good soccer player.;;;player. [pt] jogador. [en] ;Word
+1665;please;A1;por favor;;Can you please pass the salt?;Please, take a seat and make yourself comfortable.;;please. [pt] por favor. [en] ;Word
+1670;police;A1;polícia;;The police arrived at the scene quickly.;;;police. [pt] polícia. [en] ;Word
+1673;policeman;A1;policial;Professions;The policeman helped the lost child.;;;policeman. [pt] policial. [en] ;Word
+1676;poor;A1;pobre , ruim;;They support a charity for the poor.;She felt poor after the long journey.;;poor. [pt] pobre , ruim. [en] ;Word
+1681;popular;A1;popular;;The movie is very popular among teenagers.;The singer is becoming more popular every day.;;popular. [pt] popular. [en] ;Word
+1686;Portugal;A1;Portugal;Places;They plan to visit Portugal next summer.;;;Portugal. [pt] Portugal. [en] ;Word
+1689;possession;A1;posse;;His car is his most prized possession.;;;possession. [pt] posse. [en] ;Word
+1692;potato;A1;batata;Foods and drinks;She made mashed potato for dinner.;;;potato. [pt] batata. [en] ;Word
+1695;pound;A1;libra , bater;;The cake costs five pounds.;He used a hammer to pound the nails.;;pound. [pt] libra , bater. [en] ;Word
+1700;practice;A1;prática;;Practice makes perfect.;;;practice. [pt] prática. [en] ;Word
+1703;practise;A1;praticar;;He likes to practise the piano every day.;;;practise. [pt] praticar. [en] ;Word
+1706;prefer;A1;preferir;;She prefers tea to coffee.;They prefer to sit outside.;;prefer. [pt] preferir. [en] ;Word
+1711;prepare;A1;preparar;;She will prepare dinner for the guests.;;;prepare. [pt] preparar. [en] ;Word
+1714;price;A1;preço;;What is the price of this shirt?;;;price. [pt] preço. [en] ;Word
+1717;problem;A1;problema;;Solving problems requires creativity.;;;problem. [pt] problema. [en] ;Word
+1720;programme;A1;programa;;The TV programme starts at 8 PM.;;;programme. [pt] programa. [en] ;Word
+1723;prompt;A1;rápido , pontual;;She was prompt in completing the task.;The prompt arrival impressed everyone.;;prompt. [pt] rápido , pontual. [en] ;Word
+1728;purple;A1;roxo;Colors;Her favorite color is purple.;;;purple. [pt] roxo. [en] ;Word
+1731;put;A1;colocar;;Put the book on the table, please.;;;put. [pt] colocar. [en] ;Word
+1734;quarter;A1;quarto , moeda de 25 centavos;Numbers;He lives in the last quarter of the town.;I need a quarter for the parking meter.;;quarter. [pt] quarto , moeda de 25 centavos. [en] ;Word
+1739;question;A1;pergunta , questão;;Do you have a question about the lesson?;;;question. [pt] pergunta , questão. [en] ;Word
+1742;quick;A1;rápido;;She's a quick learner.;;;quick. [pt] rápido. [en] ;Word
+1745;rain;A1;chuva;Nature;The rain started to fall heavily.;;;rain. [pt] chuva. [en] ;Word
+1748;read;A1;ler;;He loves to read novels in his free time.;;;read. [pt] ler. [en] ;Word
+1751;reading;A1;leitura;;Reading is her favorite hobby.;;;reading. [pt] leitura. [en] ;Word
+1754;ready;A1;pronto;;Are you ready to go?;;;ready. [pt] pronto. [en] ;Word
+1757;reason;A1;razão;;What is the reason for your absence?;;;reason. [pt] razão. [en] ;Word
+1760;receptionist;A1;recepcionista;Professions;The receptionist greeted the guests warmly.;;;receptionist. [pt] recepcionista. [en] ;Word
+1763;red;A1;vermelho;Colors;She painted her room red.;;;red. [pt] vermelho. [en] ;Word
+1766;respond;A1;responder;;Please respond to the email by tomorrow.;;;respond. [pt] responder. [en] ;Word
+1769;restaurant;A1;restaurante;Places;They went to their favorite restaurant for dinner.;;;restaurant. [pt] restaurante. [en] ;Word
+1772;retirement;A1;aposentadoria;;He plans to travel after his retirement.;;;retirement. [pt] aposentadoria. [en] ;Word
+1775;rice;A1;arroz;Foods and drinks;She cooked rice for lunch.;;;rice. [pt] arroz. [en] ;Word
+1778;rich;A1;rico;;He's very rich but lives modestly.;;;rich. [pt] rico. [en] ;Word
+1781;river;A1;rio;;The river flows through the city.;;;river. [pt] rio. [en] ;Word
+1784;road;A1;estrada;Places;They drove along the winding road.;;;road. [pt] estrada. [en] ;Word
+1787;Russia;A1;Rússia;Places;They traveled to Russia last year.;;;Russia. [pt] Rússia. [en] ;Word
+1790;sad;A1;triste;Emotions;She felt sad after hearing the news.;;;sad. [pt] triste. [en] ;Word
+1793;salad;A1;salada;Foods and drinks;She prepared a fresh salad for lunch.;;;salad. [pt] salada. [en] ;Word
+1796;salt;A1;sal;Foods and drinks;Add a pinch of salt to the soup.;;;salt. [pt] sal. [en] ;Word
+1799;same;A1;mesmo;;They have the same taste in music.;;;same. [pt] mesmo. [en] ;Word
+1802;sandwich;A1;sanduíche;Foods and drinks;He made a ham sandwich for lunch.;;;sandwich. [pt] sanduíche. [en] ;Word
+1805;Saturday;A1;sábado;Days of the week and months;They often go hiking on Saturdays.;;;saturday. [pt] sábado. [en] ;Word
+1808;school;A1;escola;;The children go to school every weekday.;;;school. [pt] escola. [en] ;Word
+1811;sea;A1;mar;;They enjoyed swimming in the sea.;;;sea. [pt] mar. [en] ;Word
+1814;seat;A1;assento;;Please take a seat and wait.;;;seat. [pt] assento. [en] ;Word
+1817;sell;A1;vender;;She wants to sell her old bike.;;;sell. [pt] vender. [en] ;Word
+1820;send;A1;enviar;;Can you send me the email today?;;;send. [pt] enviar. [en] ;Word
+1823;sentence;A1;frase;;Write a sentence using each new word.;;;sentence. [pt] frase. [en] ;Word
+1826;September;A1;setembro;Days of the week and months;They got married in September.;;;September. [pt] setembro. [en] ;Word
+1829;seven;A1;sete;Numbers;She has seven cats.;Seven people attended the event.;;seven. [pt] sete. [en] ;Word
+1834;seventeen;A1;dezessete;Numbers;She turns seventeen next month.;;;seventeen. [pt] dezessete. [en] ;Word
+1837;seventh;A1;sétimo;Numbers;He won the race for the seventh time.;;;seventh. [pt] sétimo. [en] ;Word
+1840;seventy;A1;setenta;Numbers;The store offers a seventy percent discount.;;;seventy. [pt] setenta. [en] ;Word
+1843;shawl;A1;xale;Clothing;She wore a beautiful shawl to the party.;;;shawl. [pt] xale. [en] ;Word
+1846;she;A1;ela;;She loves to read.;She is going to the market.;;she. [pt] ela. [en] ;Word
+1851;sheep;A1;ovelha;Animals;The farmer has many sheep on his farm.;;;sheep. [pt] ovelha. [en] ;Word
+1854;shirt;A1;camisa;Clothing;He bought a new shirt for work.;;;shirt. [pt] camisa. [en] ;Word
+1857;shoe;A1;sapato;Clothing;She needs a new pair of shoes.;;;shoe. [pt] sapato. [en] ;Word
+1860;shoes;A1;sapatos;Clothing;She left her shoes at the door.;;;shoes. [pt] sapatos. [en] ;Word
+1863;shop assistant;A1;atendente de loja;Professions;The shop assistant helped her find the right size.;;;shop assistant. [pt] atendente de loja. [en] ;Word
+1866;short;A1;curto , baixo;;She wore a short skirt.;He is short for his age.;;short. [pt] curto , baixo. [en] ;Word
+1871;shoulder;A1;ombro;Human body and health;She carried the bag on her shoulder.;;;shoulder. [pt] ombro. [en] ;Word
+1874;sick;A1;doente;Human body and health;She felt sick after eating too much candy.;;;sick. [pt] doente. [en] ;Word
+1877;sing;A1;cantar;;She loves to sing in the choir.;;;sing. [pt] cantar. [en] ;Word
+1880;singer;A1;cantor;;The singer performed a new song.;;;singer. [pt] cantor. [en] ;Word
+1883;sister;A1;irmã;;Her sister lives in another city.;;;sister. [pt] irmã. [en] ;Word
+1886;sit;A1;sentar;;She likes to sit by the window.;;;sit. [pt] sentar. [en] ;Word
+1889;six;A1;seis;Numbers;There are six eggs in the carton.;She has six books to read.;;six. [pt] seis. [en] ;Word
+1894;sixteen;A1;dezesseis;Numbers;She turns sixteen next week.;;;sixteen. [pt] dezesseis. [en] ;Word
+1897;sixth;A1;sexto;Numbers;He was sixth in line at the store.;;;sixth. [pt] sexto. [en] ;Word
+1900;sixty;A1;sessenta;Numbers;Her grandmother is sixty years old.;;;sixty. [pt] sessenta. [en] ;Word
+1903;skirt;A1;saia;Clothing;She wore a blue skirt to the party.;;;skirt. [pt] saia. [en] ;Word
+1906;slim;A1;magro , fino;;She prefers a slim fit for her jeans.;;;slim. [pt] magro , fino. [en] ;Word
+1909;small;A1;pequeno;;She lives in a small house.;;;small. [pt] pequeno. [en] ;Word
+1912;smoking;A1;fumar , fumante;;Smoking is not allowed inside.;She quit smoking last year.;;smoking. [pt] fumar , fumante. [en] ;Word
+1917;snake;A1;cobra;Animals;She saw a snake in the garden.;;;snake. [pt] cobra. [en] ;Word
+1920;snow;A1;neve;;She loves to play in the snow.;;;snow. [pt] neve. [en] ;Word
+1923;snowy;A1;nevado;;She went for a walk on a snowy day.;;;snowy. [pt] nevado. [en] ;Word
+1926;so;A1;então , tão;;She was so happy.;Are you going out? If so, I'll join you.;;so. [pt] então , tão. [en] ;Word
+1931;sofa;A1;sofá;Home;She sat on the sofa and read a book.;;;sofa. [pt] sofá. [en] ;Word
+1934;some;A1;algum , alguns;;She wants some water.;Some people prefer tea over coffee.;;some. [pt] algum , alguns. [en] ;Word
+1939;somebody;A1;alguém;;She saw somebody waiting at the bus stop.;;;somebody. [pt] alguém. [en] ;Word
+1942;someone;A1;alguém;;Someone left their keys on the table.;;;someone. [pt] alguém. [en] ;Word
+1945;something;A1;algo;;She found something interesting in the attic.;;;something. [pt] algo. [en] ;Word
+1948;sometimes;A1;às vezes;;She goes for a run sometimes in the morning.;;;sometimes. [pt] às vezes. [en] ;Word
+1951;son;A1;filho;;Her son loves playing soccer.;;;son. [pt] filho. [en] ;Word
+1954;song;A1;música;;She sang her favorite song.;;;song. [pt] música. [en] ;Word
+1957;soon;A1;logo;;She will be home soon.;;;soon. [pt] logo. [en] ;Word
+1960;sorry;A1;desculpa;;She said sorry for the mistake.;She's sorry she couldn't attend the event.;;sorry. [pt] desculpa. [en] ;Word
+1965;sound;A1;som;;She heard a strange sound outside.;;;sound. [pt] som. [en] ;Word
+1968;soup;A1;sopa;Foods and drinks;She likes to have soup for dinner.;;;soup. [pt] sopa. [en] ;Word
+1971;south;A1;sul;;She traveled south for her vacation.;;;south. [pt] sul. [en] ;Word
+1974;South Africa;A1;África do Sul;Places;She visited South Africa last year.;;;South Africa. [pt] África do Sul. [en] ;Word
+1977;Spain;A1;Espanha;Places;She dreams of visiting Spain one day.;;;Spain. [pt] Espanha. [en] ;Word
+1980;Spanish;A1;espanhol;;She is learning Spanish.;;;Spanish. [pt] espanhol. [en] ;Word
+1983;speak;A1;falar;Communication;She can speak French fluently.;;;speak. [pt] falar. [en] ;Word
+1986;spell;A1;soletrar;;She asked her to spell the word.;;;spell. [pt] soletrar. [en] ;Word
+1989;spend;A1;gastar , passar;;She spends her weekends hiking.;;;spend. [pt] gastar , passar. [en] ;Word
+1992;sport;A1;esporte;Sports;She enjoys watching sports on TV.;;;sport. [pt] esporte. [en] ;Word
+1995;spring;A1;primavera;;She loves the colors of spring.;;;spring. [pt] primavera. [en] ;Word
+1998;square;A1;quadrado , praça;;The room had a square table.;They met at the town square.;;square. [pt] quadrado , praça. [en] ;Word
+2003;stand;A1;ficar de pé , estande;;She can't stand for long periods.;She ran a stand at the fair.;;stand. [pt] ficar de pé , estande. [en] ;Word
+2008;statement;A1;declaração;;She made a statement to the press.;;;statement. [pt] declaração. [en] ;Word
+2011;stormy;A1;tempestuoso;;She doesn't like driving in stormy weather.;;;stormy. [pt] tempestuoso. [en] ;Word
+2014;story;A1;história;;She wrote a short story.;;;story. [pt] história. [en] ;Word
+2017;storyteller;A1;contador de histórias;Professions;She invited a storyteller to the school.;;;storyteller. [pt] contador de histórias. [en] ;Word
+2020;street;A1;rua;Places;She lives on Maple Street.;;;street. [pt] rua. [en] ;Word
+2023;student;A1;estudante;;She is a diligent student.;;;student. [pt] estudante. [en] ;Word
+2026;subtropical;A1;subtropical;;She visited a subtropical region last summer.;;;subtropical. [pt] subtropical. [en] ;Word
+2029;sugar;A1;açúcar;Foods and drinks;She takes her coffee without sugar.;;;sugar. [pt] açúcar. [en] ;Word
+2032;summer;A1;verão;;She loves swimming in the summer.;;;summer. [pt] verão. [en] ;Word
+2035;sun;A1;sol;Nature;She enjoys basking in the sun.;;;sun. [pt] sol. [en] ;Word
+2038;Sunday;A1;domingo;Days of the week and months;She goes to church every Sunday.;;;sunday. [pt] domingo. [en] ;Word
+2041;sunny;A1;ensolarado;;She prefers sunny days to cloudy ones.;;;sunny. [pt] ensolarado. [en] ;Word
+2044;supermarket;A1;supermercado;Places;She does her weekly shopping at the supermarket.;;;supermarket. [pt] supermercado. [en] ;Word
+2047;sure;A1;certeza;;She's not sure about her plans yet.;She is sure she left her keys here.;;sure. [pt] certeza. [en] ;Word
+2052;swap;A1;trocar;;She likes to swap books with her friends.;;;swap. [pt] trocar. [en] ;Word
+2055;sweater;A1;suéter;Clothing;She wore a warm sweater in the cold.;;;sweater. [pt] suéter. [en] ;Word
+2058;swimming pool;A1;piscina;Places;She goes to the swimming pool every Saturday.;;;swimming pool. [pt] piscina. [en] ;Word
+2061;tale;A1;conto;;She heard a fascinating tale.;;;tale. [pt] conto. [en] ;Word
+2064;tall;A1;alto;;She is tall for her age.;;;tall. [pt] alto. [en] ;Word
+2067;taxi;A1;táxi;Transportation;She took a taxi to the airport.;;;taxi. [pt] táxi. [en] ;Word
+2070;taxi driver;A1;motorista de táxi;Professions;She chatted with the taxi driver during the ride.;;;taxi driver. [pt] motorista de táxi. [en] ;Word
+2073;teacher;A1;professor;Professions;She respects her teacher a lot.;;;teacher. [pt] professor. [en] ;Word
+2076;telephone;A1;telefone;Technology;She answered the telephone quickly.;;;telephone. [pt] telefone. [en] ;Word
+2079;tell;A1;contar , dizer;;She'll tell you the story later.;She can't tell if it's going to rain.;;tell. [pt] contar , dizer. [en] ;Word
+2084;temperature;A1;temperatura;Nature;She checked the temperature before leaving.;;;temperature. [pt] temperatura. [en] ;Word
+2087;ten;A1;dez;Numbers;She has ten fingers.;;;ten. [pt] dez. [en] ;Word
+2090;tennis;A1;tênis , tênis esportivo;Sports;She plays tennis every Saturday.;She bought new tennis shoes.;;tennis. [pt] tênis , tênis esportivo. [en] ;Word
+2095;tenth;A1;décimo;Numbers;She finished in the tenth position.;;;tenth. [pt] décimo. [en] ;Word
+2098;text message;A1;mensagem de texto;;She received a text message from her friend.;;;text message. [pt] mensagem de texto. [en] ;Word
+2101;than;A1;do que;;She is taller than her sister.;;;than. [pt] do que. [en] ;Word
+2104;thank;A1;agradecer;;She'll thank you for your help.;;;thank. [pt] agradecer. [en] ;Word
+2107;thanks;A1;obrigado , agradecimentos;;She expressed her thanks to everyone.;;;thanks. [pt] obrigado , agradecimentos. [en] ;Word
+2110;the Internet;A1;a Internet;Technology;She uses the Internet every day.;;;the Internet. [pt] a Internet. [en] ;Word
+2113;theater;A1;teatro;Places;She enjoys going to the theater.;;;theater. [pt] teatro. [en] ;Word
+2116;theatre;A1;teatro;Places;She took drama classes at the theatre.;;;theatre. [pt] teatro. [en] ;Word
+2119;then;A1;então;;She finished her homework, then went out.;;;then. [pt] então. [en] ;Word
+2122;there;A1;lá;;She pointed to the house over there.;;;there. [pt] lá. [en] ;Word
+2125;these;A1;estes;;She bought these shoes last week.;;;these. [pt] estes. [en] ;Word
+2128;they;A1;eles , elas;;They will arrive in the afternoon.;;;they. [pt] eles , elas. [en] ;Word
+2131;thing;A1;coisa;;She forgot to bring her favorite thing.;;;thing. [pt] coisa. [en] ;Word
+2134;third;A1;terceiro;Numbers;She finished in third place.;;;third. [pt] terceiro. [en] ;Word
+2137;thirsty;A1;com sede;;She's feeling thirsty after the run.;;;thirsty. [pt] com sede. [en] ;Word
+2140;thirteen;A1;treze;Numbers;She turned thirteen last month.;;;thirteen. [pt] treze. [en] ;Word
+2143;thirtieth;A1;trigésimo;Numbers;She'll celebrate her thirtieth birthday next week.;;;thirtieth. [pt] trigésimo. [en] ;Word
+2146;thirty;A1;trinta;Numbers;She has thirty books on her shelf.;;;thirty. [pt] trinta. [en] ;Word
+2149;thirty;A1;trigésimo primeiro;Numbers;She'll visit her friend on the thirty-first.;;;thirty-first. [pt] trigésimo primeiro. [en] ;Word
+2152;this evening;A1;esta noite;;She'll meet you at the party this evening.;;;this evening. [pt] esta noite. [en] ;Word
+2155;those;A1;aqueles;;She likes those shoes in the display.;;;those. [pt] aqueles. [en] ;Word
+2158;thousand;A1;mil;Numbers;She walked a thousand steps today.;;;thousand. [pt] mil. [en] ;Word
+2161;three;A1;três;Numbers;She has three cats at home.;;;three. [pt] três. [en] ;Word
+2164;Thursday;A1;quinta-feira;Days of the week and months;She has a meeting on Thursday.;;;thursday. [pt] quinta-feira. [en] ;Word
+2167;ticket;A1;bilhete;;She bought a ticket for the concert.;;;ticket. [pt] bilhete. [en] ;Word
+2170;tired;A1;cansado;Emotions;He felt tired after a long day at work.;;;tired. [pt] cansado. [en] ;Word
+2173;today;A1;hoje;;Today is a beautiful day.;;;today. [pt] hoje. [en] ;Word
+2176;toes;A1;dedos dos pés;Human body and health;He wiggled his toes in the sand.;;;toes. [pt] dedos dos pés. [en] ;Word
+2179;toilet;A1;banheiro;Home;The toilet is down the hall to the left.;;;toilet. [pt] banheiro. [en] ;Word
+2182;tomorrow;A1;amanhã;;Tomorrow, we'll go to the park.;;;tomorrow. [pt] amanhã. [en] ;Word
+2185;tonight;A1;esta noite;;They are going to the movies tonight.;;;tonight. [pt] esta noite. [en] ;Word
+2188;too;A1;também , muito;;He's too tired to go out tonight.;;;too. [pt] também , muito. [en] ;Word
+2191;tooth;A1;dente;Human body and health;She lost her first tooth yesterday.;;;tooth. [pt] dente. [en] ;Word
+2194;tourist;A1;turista;;The city attracts many tourists every year.;;;tourist. [pt] turista. [en] ;Word
+2197;towels;A1;toalhas;Home;They hung the towels to dry outside.;;;towels. [pt] toalhas. [en] ;Word
+2200;town;A1;cidade;Places;He lives in a small town near the beach.;;;town. [pt] cidade. [en] ;Word
+2203;traffic;A1;trânsito;;There was heavy traffic on the highway.;;;traffic. [pt] trânsito. [en] ;Word
+2206;trainers;A1;tênis esportivo;Clothing;She wears trainers when she goes running.;;;trainers. [pt] tênis esportivo. [en] ;Word
+2209;translator;A1;tradutor;Professions;He works as a translator for an international company.;;;translator. [pt] tradutor. [en] ;Word
+2212;tree;A1;árvore;Nature;The children climbed the tree in the park.;;;tree. [pt] árvore. [en] ;Word
+2215;tree house;A1;casa na árvore;Home;The kids built a tree house in the backyard.;;;tree house. [pt] casa na árvore. [en] ;Word
+2218;trousers;A1;calças;Clothing;He folded his trousers and placed them in the drawer.;;;trousers. [pt] calças. [en] ;Word
+2221;true;A1;VERDADEIRO;;It's true that he loves chocolate.;;;true. [pt] verdadeiro. [en] ;Word
+2224;t;A1;camiseta;Clothing;She wore a white t-shirt to the gym.;;;t-shirt. [pt] camiseta. [en] ;Word
+2227;Tuesday;A1;terça-feira;Days of the week and months;I have a meeting on Tuesday morning.;;;tuesday. [pt] terça-feira. [en] ;Word
+2230;TV;A1;televisão;;They watched a movie on TV last night.;;;TV. [pt] televisão. [en] ;Word
+2233;twelfth;A1;décimo segundo;Numbers;The twelfth month of the year is December.;;;twelfth. [pt] décimo segundo. [en] ;Word
+2236;twelve;A1;doze;Numbers;She bought twelve oranges at the store.;;;twelve. [pt] doze. [en] ;Word
+2239;twentieth;A1;vigésimo;Numbers;The twentieth floor has a great view.;;;twentieth. [pt] vigésimo. [en] ;Word
+2242;twenty;A1;vinte;Numbers;He's twenty years old.;;;twenty. [pt] vinte. [en] ;Word
+2245;twenty;A1;vigésimo primeiro;Numbers;The event is scheduled for the twenty-first of June.;;;twenty-first. [pt] vigésimo primeiro. [en] ;Word
+2248;twenty;A1;vinte e um;Numbers;She has twenty-one cats at home.;;;twenty-one. [pt] vinte e um. [en] ;Word
+2251;twenty;A1;vigésimo terceiro;Numbers;It's their twenty-third anniversary next week.;;;twenty-third. [pt] vigésimo terceiro. [en] ;Word
+2254;twenty;A1;vinte e dois;Numbers;There are twenty-two students in the class.;;;twenty-two. [pt] vinte e dois. [en] ;Word
+2257;twice;A1;duas vezes;;She goes to the gym twice a week.;;;twice. [pt] duas vezes. [en] ;Word
+2260;two;A1;dois;Numbers;They have two dogs and a cat.;;;two. [pt] dois. [en] ;Word
+2263;umbrella;A1;guarda-chuva;;"Don't forget to take your umbrella; it's raining outside.";;;umbrella. [pt] guarda-chuva. [en] ;Word
+2266;uncle;A1;tio;;My uncle lives in Canada.;;;uncle. [pt] tio. [en] ;Word
+2269;under;A1;embaixo;;The keys are under the table.;;;under. [pt] embaixo. [en] ;Word
+2272;United Kingdom;A1;Reino Unido;Places;She visited the United Kingdom last summer.;;;United Kingdom. [pt] Reino Unido. [en] ;Word
+2275;United States of America;A1;Estados Unidos da América;Places;He traveled to the United States of America for a conference.;;;United States of America. [pt] Estados Unidos da América. [en] ;Word
+2278;university;A1;universidade;;She studied at the university for four years.;;;university. [pt] universidade. [en] ;Word
+2281;unusual;A1;incomum;;It's unusual to see snow in this area.;;;unusual. [pt] incomum. [en] ;Word
+2284;Uruguay;A1;Uruguai;Places;Uruguay is known for its beautiful beaches.;;;Uruguay. [pt] Uruguai. [en] ;Word
+2287;us;A1;nós;;Us, siblings, always enjoy family dinners.;;;us. [pt] nós. [en] ;Word
+2290;usually;A1;geralmente;;He usually arrives at work early.;;;usually. [pt] geralmente. [en] ;Word
+2293;vacation;A1;férias;;They're planning a vacation to Europe next summer.;;;vacation. [pt] férias. [en] ;Word
+2296;vegetable;A1;vegetal;Foods and drinks;She bought fresh vegetables from the market.;;;vegetable. [pt] vegetal. [en] ;Word
+2299;Venezuela;A1;Venezuela;Places;He traveled to Venezuela for a business trip.;;;Venezuela. [pt] Venezuela. [en] ;Word
+2302;very;A1;muito;;She's feeling very happy today.;;;very. [pt] muito. [en] ;Word
+2305;video;A1;vídeo;;He watched a funny video on the internet.;;;video. [pt] vídeo. [en] ;Word
+2308;village;A1;vilarejo;Places;They live in a small village by the river.;;;village. [pt] vilarejo. [en] ;Word
+2311;violet;A1;violeta;Colors;Her favorite color is violet.;;;violet. [pt] violeta. [en] ;Word
+2314;visitor;A1;visitante;;The museum had many visitors last month.;;;visitor. [pt] visitante. [en] ;Word
+2317;wait;A1;esperar;;I'll wait for you here.;;;wait. [pt] esperar. [en] ;Word
+2320;waiter;A1;garçom;Professions;The waiter brought the menu to the table.;;;waiter. [pt] garçom. [en] ;Word
+2323;waitress;A1;garçonete;Professions;She worked as a waitress in a café.;;;waitress. [pt] garçonete. [en] ;Word
+2326;wall;A1;parede;Home;They painted the wall with a new color.;;;wall. [pt] parede. [en] ;Word
+2329;want;A1;querer;;I want to travel the world someday.;;;want. [pt] querer. [en] ;Word
+2332;wash;A1;lavar;;She needs to wash her car today.;;;wash. [pt] lavar. [en] ;Word
+2335;watch;A1;relógio, pulseira;;He bought a new watch for his birthday.;;;watch. [pt] relógio, pulseira. [en] ;Word
+2338;water;A1;água;;She drank a glass of water after exercise.;;;water. [pt] água. [en] ;Word
+2341;we;A1;nós;;We are going on a picnic this weekend.;;;we. [pt] nós. [en] ;Word
+2344;wear;A1;vestir, usar;;He likes to wear comfortable clothes.;;;wear. [pt] vestir, usar. [en] ;Word
+2347;weather;A1;clima;Nature;The weather today is sunny and warm.;;;weather. [pt] clima. [en] ;Word
+2350;website;A1;site;Technology;They found the recipe on a cooking website.;;;website. [pt] site. [en] ;Word
+2353;Wednesday;A1;quarta-feira;Days of the week and months;They have a meeting every Wednesday morning.;;;wednesday. [pt] quarta-feira. [en] ;Word
+2356;week;A1;semana;;Next week, she has exams at school.;;;week. [pt] semana. [en] ;Word
+2359;weekend;A1;fim de semana;;They usually go hiking on the weekend.;;;weekend. [pt] fim de semana. [en] ;Word
+2362;well;A1;bem;;She doesn't feel well today.;;;well. [pt] bem. [en] ;Word
+2365;were;A1;eram, estavam;;They were at the park yesterday.;;;were. [pt] eram, estavam. [en] ;Word
+2368;west;A1;oeste;;The sun sets in the west.;;;west. [pt] oeste. [en] ;Word
+2371;when;A1;quando;;When will you arrive at the party?;;;when. [pt] quando. [en] ;Word
+2374;where;A1;onde;;Where did you put the keys?;;;where. [pt] onde. [en] ;Word
+2377;white;A1;branco;Colors;She wore a beautiful white dress to the party.;;;white. [pt] branco. [en] ;Word
+2380;wife;A1;esposa;;His wife works as a teacher.;;;wife. [pt] esposa. [en] ;Word
+2383;Wi;A1;Wi-fi;Technology;The café offers free Wi-fi to its customers.;;;Wi-fi. [pt] Wi-fi. [en] ;Word
+2386;win;A1;ganhar;;They hope to win the game next week.;;;win. [pt] ganhar. [en] ;Word
+2389;wind;A1;vento;Nature;The wind was blowing strong last night.;;;wind. [pt] vento. [en] ;Word
+2392;wine;A1;vinho;Foods and drinks;She enjoys a glass of red wine with dinner.;;;wine. [pt] vinho. [en] ;Word
+2395;winter;A1;inverno;;Winter is her favorite season of the year.;;;winter. [pt] inverno. [en] ;Word
+2398;without;A1;sem;;She went to the store without her wallet.;;;without. [pt] sem. [en] ;Word
+2401;woman;A1;mulher;;The woman in the red dress is a doctor.;;;woman. [pt] mulher. [en] ;Word
+2404;women;A1;mulheres;;Women play a significant role in society.;;;women. [pt] mulheres. [en] ;Word
+2407;wonderful;A1;maravilhoso;Emotions;They had a wonderful time at the beach.;;;wonderful. [pt] maravilhoso. [en] ;Word
+2410;wood;A1;madeira;;They built a house out of wood.;;;wood. [pt] madeira. [en] ;Word
+2413;word;A1;palavra;;Can you spell this word for me?;;;word. [pt] palavra. [en] ;Word
+2416;worker;A1;trabalhador;Professions;She's a hard worker in her office.;;;worker. [pt] trabalhador. [en] ;Word
+2419;yeah;A1;sim;;"""Yeah, I'd love to go to the movies with you.""";;;yeah. [pt] sim. [en] ;Word
+2422;year;A1;ano;;This year has gone by so quickly!;;;year. [pt] ano. [en] ;Word
+2425;yellow;A1;amarelo;Colors;She painted her room in a bright yellow color.;;;yellow. [pt] amarelo. [en] ;Word
+2428;yes;A1;sim;;"""Yes, I'll be there for the meeting.""";;;yes. [pt] sim. [en] ;Word
+2431;yesterday;A1;ontem;;They went to the park yesterday.;;;yesterday. [pt] ontem. [en] ;Word
+2434;you;A1;você;;You have a great sense of humor.;;;you. [pt] você. [en] ;Word
+2437;yourself;A1;você mesmo;;Always take care of yourself.;;;yourself. [pt] você mesmo. [en] ;Word
+2440;zoo;A1;zoológico;;They visited the zoo last Sunday.;;;zoo. [pt] zoológico. [en] ;Word
+p25;a cup of.;A1;um copo de.;Foods and drinks;I'd like a cup of coffee, please.;Can you pass me a cup of sugar?;;a cup of. [pt] um copo de.;Phrases
+p29;a kind of.;A1;um tipo de.;;It's a kind of art I've never seen before.;This is a kind of rare bird in these parts.;;a kind of. [pt] um tipo de.;Phrases
+p37;a lot/lots.;A1;muito.;;They have a lot of books.;I've got lots of work to finish.;;a lot/lots. [pt] muito.;Phrases
+p41;a piece of.;A1;um pedaço de.;;Can I have a piece of cake?;He wants a piece of advice from you.;;a piece of. [pt] um pedaço de.;Phrases
+p49;as well (as.);A1;também, tão bem quanto.;;She writes as well as she sings.;He's a good artist, as well.;;as well (as.) [pt] também, tão bem quanto.;Phrases
+p45;as well.;A1;também.;;She sings, and she dances as well.;He's a painter as well as a sculptor.;;as well. [pt] também.;Phrases
+p53;at the weekend.;A1;no fim de semana.;; I usually go hiking at the weekend.; They plan to travel at the weekend.;;at the weekend. [pt] no fim de semana.;Phrases
+p57;bare feet.;A1;pés descalços.;; Kids love playing in the sand with bare feet.; I prefer walking around the house in bare feet.;;bare feet. [pt] pés descalços.;Phrases
+p61;be ... years old.;A1;ter ... anos.;; She will be 30 years old next month.; How old will you be on your next birthday?;;be ... years old. [pt] ter ... anos.;Phrases
+p65;be called something;A1;ser chamado de algo.;; She is called Maria by her friends.; This beautiful flower is called a rose.;;be called something [pt] ser chamado de algo.;Phrases
+p69;buy a house.;A1;comprar uma casa.;; They plan to buy a house in the suburbs.; It's not easy to buy a house in this market.;;buy a house. [pt] comprar uma casa.;Phrases
+p73;change jobs.;A1;trocar de emprego.;; She decided to change jobs for better prospects.; He changes jobs every few years.;;change jobs. [pt] trocar de emprego.;Phrases
+p77;check emails.;A1;verificar e-mails.;; I check emails before starting work.; He often checks emails during lunchtime.;;check emails. [pt] verificar e-mails.;Phrases
+p1;come from.;A1;vir de algo/alguém/algum lugar.;;She comes from Canada.;That idea comes from my brother.;;come from. [pt] vir de algo/alguém/algum lugar.;Phrasal verbs
+p81;do the cleaning/cooking.;A1;fazer a limpeza/cozinhar.;; He helps do the cleaning around the house.; She loves cooking different cuisines.;;do the cleaning/cooking. [pt] fazer a limpeza/cozinhar.;Phrases
+p85;Don't forget....;A1;não esqueça....;; Don't forget to lock the door before leaving.; Don't forget your keys on the table.;;Don't forget.... [pt] não esqueça....;Phrases
+p89;Don't worry (about something).;A1;não se preocupe.;Emotions;" Don't worry about the rain; it's just a drizzle.";" Don't worry about the test; you'll do great.";;Don't worry (about something). [pt] não se preocupe.;Phrases
+p93;fake tan.;A1;bronzeamento artificial.;; She prefers fake tan for a sun-kissed look.; He got a fake tan before the beach vacation.;;fake tan. [pt] bronzeamento artificial.;Phrases
+p97;finish school.;A1;terminar a escola.;Education; He plans to finish school and then travel.; She'll finish school next year.;;finish school. [pt] terminar a escola.;Phrases
+p101;finish work.;A1;terminar o trabalho.;; He likes to finish work early on Fridays.; She often finishes work late at night.;;finish work. [pt] terminar o trabalho.;Phrases
+p105;for example.;A1;por exemplo.;; There are many fruits, for example, apples and oranges.; Many animals, for example, lions and tigers, live in the jungle.;;for example. [pt] por exemplo.;Phrases
+p109;for hours.;A1;por horas.;; She can talk on the phone for hours.; He worked on the project for hours.;;for hours. [pt] por horas.;Phrases
+p113;free parking.;A1;estacionamento gratuito.;; There's free parking available near the mall.; The hotel offers free parking for its guests.;;free parking. [pt] estacionamento gratuito.;Phrases
+p5;get (somebody Up).;A1;levantar-se.;;I get up at 7 AM every day.;He struggles to get his kids up in the morning.;;get (somebody Up). [pt] levantar-se.;Phrasal verbs
+p117;get a bus/train/taxi.;A1;pegar um ônibus/trem/táxi.;Transportation; I usually get a bus to work every morning.; She decided to get a taxi because it was raining.;;get a bus/train/taxi. [pt] pegar um ônibus/trem/táxi.;Phrases
+p121;get dressed.;A1;se vestir.;; He needs to get dressed quickly for the meeting.; They got dressed in their best outfits for the event.;;get dressed. [pt] se vestir.;Phrases
+p125;get here/there/home/to work.;A1;chegar aqui/lá/em casa/ao trabalho.;Transportation; She will get here by 7 PM for dinner.; They finally got home after a long journey.;;get here/there/home/to work. [pt] chegar aqui/lá/em casa/ao trabalho.;Phrases
+p129;get home.;A1;chegar em casa.;; What time do you usually get home from work?; She wants to get home before it gets dark.;;get home. [pt] chegar em casa.;Phrases
+p133;get ill.;A1;ficar doente.;Human body and health; He tends to get ill during the winter season.;" Don't go out in the rain; you might get ill.";;get ill. [pt] ficar doente.;Phrases
+p137;go abroad.;A1;viajar para o exterior.;; They plan to go abroad for their honeymoon.; It's exciting to go abroad and explore new cultures.;;go abroad. [pt] viajar para o exterior.;Phrases
+p141;go on Facebook/Twitter.;A1;entrar no Facebook/Twitter.;; I like to go on Facebook to catch up with friends.; She often goes on Twitter to read the latest news.;;go on Facebook/Twitter. [pt] entrar no Facebook/Twitter.;Phrases
+p145;go out with friends.;A1;sair com amigos.;; They regularly go out with friends on weekends.; She prefers to go out with friends rather than stay in.;;go out with friends. [pt] sair com amigos.;Phrases
+p149;go shopping.;A1;fazer compras.;; She likes to go shopping at the mall on Saturdays.; They decided to go shopping for new clothes.;;go shopping. [pt] fazer compras.;Phrases
+p153;go to bed.;A1;ir para a cama.;; He usually goes to bed late at night.; She likes to go to bed early to read.;;go to bed. [pt] ir para a cama.;Phrases
+p157;go to the cinema.;A1;ir ao cinema.;; They plan to go to the cinema to watch the new movie.; He doesn't often go to the cinema due to his schedule.;;go to the cinema. [pt] ir ao cinema.;Phrases
+p161;go to the theatre.;A1;ir ao teatro.;; She loves to go to the theatre for live performances.; They occasionally go to the theatre to watch plays.;;go to the theatre. [pt] ir ao teatro.;Phrases
+p165;go to work.;A1;ir para o trabalho.;; He goes to work by train every day.; She needs to go to work early tomorrow.;;go to work. [pt] ir para o trabalho.;Phrases
+p169;good for you.;A1;que bom para você.;; You finally completed the project! Good for you!; Good for you for passing the test!;;good for you. [pt] que bom para você.;Phrases
+p173;good quality.;A1;boa qualidade.;; They always aim to buy products of good quality.; This store is known for selling items of good quality.;;good quality. [pt] boa qualidade.;Phrases
+p177;half past one/two/three.;A1;uma e meia / duas e meia / três e meia.;; The meeting starts at half past two.; We usually have lunch at half past one.;;half past one/two/three. [pt] uma e meia / duas e meia / três e meia.;Phrases
+p181;happy birthday/New Year.;A1;feliz aniversário/ano novo.;; I sent her a message wishing her a happy birthday.; They celebrate New Year with fireworks.;;happy birthday/New Year. [pt] feliz aniversário/ano novo.;Phrases
+p185;have a baby.;A1;ter um bebê.;; They're expecting to have a baby in the spring.; She wants to have a baby next year.;;have a baby. [pt] ter um bebê.;Phrases
+p189;have a bath.;A1;tomar banho de banheira.;; He prefers to have a bath rather than a shower.; She relaxes by taking a long bath.;;have a bath. [pt] tomar banho de banheira.;Phrases
+p193;have a good time.;A1;divertir-se.;; I hope you have a good time at the party.; They always have a good time when they're together.;;have a good time. [pt] divertir-se.;Phrases
+p197;have a long history of.;A1;ter uma longa história de.;; The company has a long history of innovation.; They have a long history of supporting local charities.;;have a long history of. [pt] ter uma longa história de.;Phrases
+p201;have a reservation.;A1;ter uma reserva.;; Do you have a reservation for dinner tonight?; We have a reservation for two at 7 PM.;;have a reservation. [pt] ter uma reserva.;Phrases
+p205;have a shower.;A1;tomar banho de chuveiro.;; He usually has a shower before bed.; She quickly had a shower after the gym.;;have a shower. [pt] tomar banho de chuveiro.;Phrases
+p209;have breakfast/lunch/dinner.;A1;tomar café da manhã/almoçar/jantar.;; He rarely has breakfast in the morning.; They usually have lunch together at work.;;have breakfast/lunch/dinner. [pt] tomar café da manhã/almoçar/jantar.;Phrases
+p213;How are you?.;A1;Como vai?;; How are you feeling today?;" I always ask him, "" How are you doing?""";;How are you?. [pt] Como vai?;Phrases
+p217;how many.;A1;quantos.;Numbers; How many people are coming to the party?;" She asked, ""How many cookies do you want?""";;how many. [pt] quantos.;Phrases
+p221;I am Spanish/a teacher.;A1;Eu sou espanhol/professor.;; I am Spanish, but I speak fluent English.; I am a teacher at the local school.;;I am Spanish/a teacher. [pt] Eu sou espanhol/professor.;Phrases
+p225;in my free time.;A1;no meu tempo livre.;; In my free time, I like to read books.; He enjoys swimming in his free time.;;in my free time. [pt] no meu tempo livre.;Phrases
+p229;it rains/it is raining.;A1;está chovendo.;; It rains a lot in this region.; It is raining heavily today.;;it rains/it is raining. [pt] está chovendo.;Phrases
+p233;last night.;A1;ontem à noite.;; I watched a movie last night.; She went to bed early last night.;;last night. [pt] ontem à noite.;Phrases
+p237;last week/year/Monday.;A1;semana/passado/segunda-feira.;; I went to the beach last week.; He was absent last Monday.;;last week/year/Monday. [pt] semana/passado/segunda-feira.;Phrases
+p241;learn a new language.;A1;aprender um novo idioma.;; She wants to learn a new language this year.; I started to learn a new language online.;;learn a new language. [pt] aprender um novo idioma.;Phrases
+p245;like me.;A1;como eu.;; He sings like me but dances better.; She thinks like me in many ways.;;like me. [pt] como eu.;Phrases
+p249;listen to music.;A1;ouvir música.;; I often listen to music while working.; She loves to listen to music in the evenings.;;listen to music. [pt] ouvir música.;Phrases
+p253;live from hand to mouth.;A1;viver na boca do sapo.;; He earns enough to live from hand to mouth.; They struggled and had to live from hand to mouth for years.;;live from hand to mouth. [pt] viver na boca do sapo.;Phrases
+p257;live in/at.;A1;viver em.;Places; I used to live in Paris.; They live in a small village.;;live in/at. [pt] viver em.;Phrases
+p261;make arrangements.;A1;fazer arranjos.;; Let's make arrangements for the trip.; She's busy making arrangements for the event.;;make arrangements. [pt] fazer arranjos.;Phrases
+p265;make things.;A1;fazer coisas.;; He likes to make things from scratch.; She's creative and loves making things.;;make things. [pt] fazer coisas.;Phrases
+p269;more beautiful/difficult/easily.;A1;mais bonito/difícil/facilmente.;; The garden looks more beautiful than before.; Math gets more difficult as we progress.; He solved the puzzle more easily than I did.;more beautiful/difficult/easily. [pt] mais bonito/difícil/facilmente.;Phrases
+p274;move abroad.;A1;mudar para o exterior.;; They plan to move abroad next year.; She decided to move abroad for work.;;move abroad. [pt] mudar para o exterior.;Phrases
+p278;need to do something;A1;precisar fazer algo.;; I need to finish this report today.; They need to leave early for the meeting.;;need to do something [pt] precisar fazer algo.;Phrases
+p282;next week/year/Monday.;A1;próxima semana/ano/segunda-feira.;; She'll visit us next week.; We'll start the project next year.;;next week/year/Monday. [pt] próxima semana/ano/segunda-feira.;Phrases
+p286;not very good/tall/happy.;A1;não muito bom/alto/feliz.;; I'm not very good at swimming.; He's not very tall for a basketball player.;;not very good/tall/happy. [pt] não muito bom/alto/feliz.;Phrases
+p290;one/two/three.;A1;um/dois/três.;Numbers; She has two cats and three dogs.; I need one pen, please.;;one/two/three. [pt] um/dois/três.;Phrases
+p9;pick up on.;A1;perceber ou notar algo.;Communication;She can pick up on subtle cues in conversations.;It's hard to pick up on sarcasm in text messages.;;pick up on. [pt] perceber ou notar algo.;Phrasal verbs
+p294;play sport.;A1;praticar esportes.;; He likes to play sports every weekend.; They often play sports together.;;play sport. [pt] praticar esportes.;Phrases
+p298;play video games.;A1;jogar videogames.;; He spends hours playing video games.; They enjoy playing video games online.;;play video games. [pt] jogar videogames.;Phrases
+p302;put something down/in/on.;A1;colocar algo para baixo/dentro/em.;; Put your bags down and relax.; Put the groceries in the fridge.;;put something down/in/on. [pt] colocar algo para baixo/dentro/em.;Phrases
+p310;see you later/soon/tomorrow.;A1;até logo/em breve/amanhã.;; I'll call you, see you later!; See you tomorrow at the party.;;see you later/soon/tomorrow. [pt] até logo/em breve/amanhã.;Phrases
+p314;see you soon.;A1;até breve.;; Take care, see you soon!; I'm heading out now, see you soon.;;see you soon. [pt] até breve.;Phrases
+p306;see you.;A1;até logo.;; Okay, see you tomorrow!; See you later, alligator!;;see you. [pt] até logo.;Phrases
+p318;shop online.;A1;comprar online.;; She prefers to shop online for clothes.; They shop online for groceries.;;shop online. [pt] comprar online.;Phrases
+p322;start work.;A1;começar o trabalho.;; He likes to start work early.; They'll start work on the project tomorrow.;;start work. [pt] começar o trabalho.;Phrases
+p326;take a picture/photo(graph).;A1;tirar uma foto.;; Let's take a picture together.; She loves to take photos of nature.;;take a picture/photo(graph). [pt] tirar uma foto.;Phrases
+p330;take an instant dislike to.;A1;pegar aversão instantânea a algo/alguém.;; I don't know why, but she took an instant dislike to him.; He took an instant dislike to the new restaurant.;;take an instant dislike to. [pt] pegar aversão instantânea a algo/alguém.;Phrases
+p21;That's. fine.;A1;está bem.;;That's fine, I understand your situation.;If it's not a problem, then that's fine.;;That's. fine. [pt] está bem.;Phrases
+p334;the movies.;A1;o cinema.;; Let's go to the movies this weekend.; She loves watching action films at the movies.;;the movies. [pt] o cinema.;Phrases
+p338;the radio.;A1;o rádio.;; He listens to the radio every morning.; They heard the news on the radio.;;the radio. [pt] o rádio.;Phrases
+p342;There is/are/was.;A1;há/tem.;; There is a cat in the garden.; There are many books on the shelf.; There was a party last night.;There is/are/was. [pt] há/tem.;Phrases
+p347;there is/there are/there was.;A1;há/tem/havia.;; There is a good chance we'll succeed.; There are many reasons to celebrate.; There was a lot of traffic yesterday.;there is/there are/there was. [pt] há/tem/havia.;Phrases
+p352;too small/hard/much.;A1;muito pequeno/difícil/muito.;; The shirt was too small for him.; The exam was too hard for most students.; He ate too much at dinner.;too small/hard/much. [pt] muito pequeno/difícil/muito.;Phrases
+p357;very much.;A1;muito.;; She enjoyed the play very much.; He appreciates your help very much.;;very much. [pt] muito.;Phrases
+p13;wake (somebody) up or wake up (somebody).;A1;acordar alguém.;;She wakes up her children at 6:30 AM.;Please don't wake me up until 8 AM.;;wake (somebody) up or wake up (somebody). [pt] acordar alguém.;Phrasal verbs
+p361;Well done!.;A1;Bem feito!.;; Well done on completing the project!; Well done for your excellent performance!;;Well done!. [pt] Bem feito!.;Phrases
+p365;what does somebody do?.;A1;o que alguém faz?;; What does he do for a living?; What does she do in her free time?;;what does somebody do?. [pt] o que alguém faz?;Phrases
