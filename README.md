@@ -26,6 +26,10 @@ Afterwards, the user is given an accuracy score based on his input and, based on
 * The cycle continues until the user quits the program or no more rhymes are found.
 
 ---
+Part of the functional is deployed on a local Streamlit page.
+![alt text](./data/streamlit.png)
+
+---
 
 For installing the virtual environment you can either use the Makefile and run `make setup` or install it manually with the following commands: 
 
