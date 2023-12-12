@@ -21,3 +21,5 @@ pronouncing
 difflib
 playsound
 IPython
+streamlit
+streamlit-audiorec
