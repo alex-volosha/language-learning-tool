@@ -2,15 +2,12 @@ import speech_recognition as sr
 import streamlit as st
 import Levenshtein
 import difflib
-import pyaudio
-from annotated_text import annotated_text
-
 
 # Initialize the Streamlit app
 st.title("Speech Recognition App")
 
 # The phrase that the user should speak
-correct_phrase = "she had to abandon her old car and buy a new one"
+correct_phrase = "She had to abandon her old car and buy a new one."
 
 # Function to check the phrase and return the recognized text
 def check_phrase():
@@ -21,7 +18,14 @@ def check_phrase():
     try:
         # Recognize the speech using the Google Web Speech API
         text = recognizer.recognize_google(audio)
-        st.write("You said: " + text)
+        st.write("You said: " + text.capitalize() + ".")
+        
+         # Add a dot at the end
+        text += "."
+
+        # Capitalize the first letter
+        text = text.capitalize()
+
 
         # Check if the spoken phrase matches the correct phrase
         if correct_phrase.lower() == text.lower():
@@ -58,14 +62,14 @@ if st.button("Start Speech Recognition"):
         similarity_threshold = 0.8  # Adjust the threshold as needed
 
         #st.write("Levenshtein Distance:", distance)
-        st.write("Similarity Ratio:", similarity_ratio)
+        st.write("Similarity Ratio:", round(similarity_ratio, 2))
 
         if similarity_ratio >= similarity_threshold:
             st.success("The recognized phrase is similar enough to the correct phrase.")
         else:
             st.error("The recognized phrase is not similar to the correct phrase.")
 
-            st.write("Differences:(red is incorrect)")
+            st.write("Differences:")
             html = ""
             correct_words = correct_phrase.split()
             recognized_words = recognized_phrase.split()
